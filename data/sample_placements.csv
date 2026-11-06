@@ -1,0 +1,285 @@
+placement_id,roll_no,student_name,department,sub_branch,graduation_year,company,role,package_lpa,placement_date,status
+262,2026EC008,Ananya Bhardwaj,Electronics & Communication Engineering,Embedded,2026,Deloitte,Technology Analyst,9.67,2026-03-29,Placed
+104,2026CS005,Abhinav Ghosh,Computer Science & Engineering,DS,2026,Cisco,Network Software Engineer,15.19,2026-03-25,Placed
+205,2026EE003,Niharika Saxena,Electrical & Electronics Engineering,Power Systems,2026,TCS,System Engineer (Ninja/Digital/Prime),3.75,2026-03-16,Offer Accepted
+102,2026CS002,Sunil Malhotra,Computer Science & Engineering,IT,2026,Qualcomm,Hardware / Embedded Engineer,14.79,2026-03-09,Joining Confirmed
+108,2026CS010,Ishita Das,Computer Science & Engineering,DS,2026,Zoho Corp,Software Developer,8.4,2026-03-02,Placed
+252,2026CE005,Diya Bose,Civil Engineering,Environmental,2026,Wipro,Project Engineer,6.0,2026-02-28,Placed
+230,2026ME004,Vikram Sharma,Mechanical Engineering,Automobile,2026,Accenture,Associate Software Engineer,5.73,2026-02-17,Offer Extended
+173,2026EC002,Vivek Verma,Electronics & Communication Engineering,Embedded,2026,Bosch,Automotive Embedded Systems Engineer,7.56,2026-02-14,Joining Confirmed
+103,2026CS004,Anjali Malhotra,Computer Science & Engineering,AIDS,2026,Walmart Global Tech,Software Engineer,18.75,2026-02-14,Placed
+268,2026CS014,Meera Kulkarni,Computer Science & Engineering,AIDS,2026,Adobe,Member of Technical Staff,25.74,2026-02-13,Joining Confirmed
+249,2026CS013,Niharika Deshmukh,Computer Science & Engineering,CS,2026,Razorpay,Backend Systems Engineer,19.16,2026-02-13,Offer Extended
+110,2026CS012,Arjun Patel,Computer Science & Engineering,IT,2026,Microsoft,Software Development Engineer,30.95,2026-02-06,Placed
+179,2026EC005,Kavya Verma,Electronics & Communication Engineering,VLSI,2026,Microsoft,Software Development Engineer,32.17,2026-02-04,Offer Extended
+105,2026CS008,Tarun Deshmukh,Computer Science & Engineering,AIML,2026,Cognizant,Programmer Analyst,5.03,2026-01-27,Offer Extended
+229,2026ME002,Rahul Nambiar,Mechanical Engineering,Automobile,2026,Maruti Suzuki,Graduate Engineer Trainee,8.05,2025-12-28,Joining Confirmed
+181,2026EC006,Preeti Kulkarni,Electronics & Communication Engineering,Embedded,2026,PwC,Technology Consulting Associate,8.74,2025-12-26,Placed
+253,2026CE005,Diya Bose,Civil Engineering,Environmental,2026,Capgemini,Senior Analyst,5.59,2025-12-22,Offer Accepted
+250,2026CS013,Niharika Deshmukh,Computer Science & Engineering,CS,2026,Walmart Global Tech,Software Engineer,18.42,2025-12-18,Offer Accepted
+273,2026CE007,Anjali Patel,Civil Engineering,Structural,2026,L&T Infotech,Graduate Engineer Trainee,7.45,2025-12-17,Offer Extended
+277,2026CE009,Arjun Mishra,Civil Engineering,Structural,2026,Capgemini,Senior Analyst,5.8,2025-12-13,Offer Extended
+180,2026EC005,Kavya Verma,Electronics & Communication Engineering,VLSI,2026,NVIDIA,AI & Silicon Systems Engineer,36.5,2025-12-05,Offer Extended
+178,2026EC004,Rahul Patel,Electronics & Communication Engineering,Core ECE,2026,Morgan Stanley,Technology Associate,25.39,2025-10-29,Offer Accepted
+248,2026CE003,Rahul Chopra,Civil Engineering,Environmental,2026,Deloitte,Technology Analyst,8.43,2025-10-28,Offer Accepted
+246,2026CE001,Priyanka Thakur,Civil Engineering,Environmental,2026,Cognizant,Programmer Analyst,5.39,2025-10-26,Offer Extended
+107,2026CS010,Ishita Das,Computer Science & Engineering,DS,2026,Capgemini,Senior Analyst,4.39,2025-10-23,Offer Extended
+274,2026CE008,Manish Kapoor,Civil Engineering,Structural,2026,Cognizant,Programmer Analyst,6.03,2025-10-22,Offer Extended
+182,2026EC007,Nikhil Kapoor,Electronics & Communication Engineering,Telecom,2026,Microsoft,Software Development Engineer,30.72,2025-10-21,Offer Accepted
+176,2026EC003,Sanjana Joshi,Electronics & Communication Engineering,Telecom,2026,Morgan Stanley,Technology Associate,22.45,2025-10-21,Placed
+174,2026EC002,Vivek Verma,Electronics & Communication Engineering,Embedded,2026,Microsoft,Software Development Engineer,28.91,2025-10-21,Joining Confirmed
+247,2026EE005,Sanya Patel,Electrical & Electronics Engineering,Power Systems,2026,TCS,System Engineer (Ninja/Digital/Prime),5.93,2025-10-15,Offer Accepted
+280,2026ME007,Sanjana Nair,Mechanical Engineering,Design & Robotics,2026,Accenture,Associate Software Engineer,5.46,2025-10-13,Placed
+204,2026EE002,Alok Bhat,Electrical & Electronics Engineering,Control & Automation,2026,Accenture,Associate Software Engineer,4.59,2025-10-10,Offer Extended
+272,2026ME006,Kavya Joshi,Mechanical Engineering,Automobile,2026,L&T Infotech,Graduate Engineer Trainee,6.09,2025-10-02,Joining Confirmed
+284,2026EC011,Alok Chopra,Electronics & Communication Engineering,Telecom,2026,TCS,System Engineer (Ninja/Digital/Prime),6.55,2025-09-18,Joining Confirmed
+270,2026CS017,Kavya Trivedi,Computer Science & Engineering,AIML,2026,Accenture,Associate Software Engineer,5.82,2025-09-17,Offer Accepted
+281,2026CS018,Chetan Choudhury,Computer Science & Engineering,AIDS,2026,L&T Infotech,Graduate Engineer Trainee,7.63,2025-09-12,Placed
+175,2026EC002,Vivek Verma,Electronics & Communication Engineering,Embedded,2026,Cisco,Network Software Engineer,17.52,2025-08-27,Offer Extended
+260,2026ME005,Ritika Bose,Mechanical Engineering,Design & Robotics,2026,Siemens,Digital Industries Engineer,6.72,2025-08-23,Offer Extended
+177,2026EC003,Sanjana Joshi,Electronics & Communication Engineering,Telecom,2026,Wipro,Project Engineer,6.16,2025-08-23,Offer Accepted
+109,2026CS011,Preeti Joshi,Computer Science & Engineering,CS,2026,Morgan Stanley,Technology Associate,19.99,2025-08-23,Offer Extended
+106,2026CS009,Mohit Chopra,Computer Science & Engineering,AIDS,2026,L&T Infotech,Graduate Engineer Trainee,6.31,2025-08-22,Offer Accepted
+269,2026CS016,Dev Agarwal,Computer Science & Engineering,IT,2026,Google,Software Engineer,36.49,2025-08-20,Placed
+278,2025EC011,Swati Chatterjee,Electronics & Communication Engineering,Core ECE,2025,PwC,Technology Consulting Associate,7.53,2025-03-24,Joining Confirmed
+283,2025ME009,Kunal Thakur,Mechanical Engineering,Design & Robotics,2025,Tata Motors,Automotive Design Engineer,6.0,2025-03-16,Placed
+166,2025EC004,Sameer Sen,Electronics & Communication Engineering,VLSI,2025,Apple,Systems Software Engineer,40.54,2025-03-09,Offer Accepted
+254,2025CE003,Aditi Bhardwaj,Civil Engineering,Environmental,2025,Deloitte,Technology Analyst,8.06,2025-02-25,Placed
+171,2025EC007,Dev Trivedi,Electronics & Communication Engineering,Core ECE,2025,Morgan Stanley,Technology Associate,25.16,2025-02-25,Placed
+264,2025CS016,Ishita Kapoor,Computer Science & Engineering,AIDS,2025,L&T Infotech,Graduate Engineer Trainee,6.09,2025-02-19,Placed
+92,2025CS003,Tanvi Mukherjee,Computer Science & Engineering,CS,2025,Oracle,Member Technical Staff,13.32,2025-02-15,Placed
+257,2025CS014,Rishi Bose,Computer Science & Engineering,DS,2025,Swiggy,Software Development Engineer,15.15,2025-02-11,Joining Confirmed
+94,2025CS005,Kunal Malhotra,Computer Science & Engineering,AIML,2025,Accenture,Associate Software Engineer,4.99,2025-02-08,Placed
+259,2025ME008,Pallavi Mukherjee,Mechanical Engineering,Design & Robotics,2025,Cognizant,Programmer Analyst,4.94,2025-02-01,Offer Extended
+266,2025EE007,Chetan Banerjee,Electrical & Electronics Engineering,Control & Automation,2025,L&T Infotech,Graduate Engineer Trainee,6.27,2025-01-25,Placed
+172,2025EC007,Dev Trivedi,Electronics & Communication Engineering,Core ECE,2025,Walmart Global Tech,Software Engineer,15.19,2025-01-24,Offer Accepted
+169,2025EC006,Preeti Das,Electronics & Communication Engineering,Telecom,2025,Accenture,Associate Software Engineer,6.71,2025-01-14,Offer Accepted
+170,2025EC007,Dev Trivedi,Electronics & Communication Engineering,Core ECE,2025,Accenture,Associate Software Engineer,6.55,2025-01-05,Offer Accepted
+164,2025EC001,Shivam Nair,Electronics & Communication Engineering,Embedded,2025,Google,Software Engineer,33.31,2025-01-05,Placed
+265,2025CS017,Ritika Mehta,Computer Science & Engineering,AIDS,2025,Zoho Corp,Software Developer,7.32,2025-01-03,Offer Accepted
+271,2025CE004,Abhinav Mehta,Civil Engineering,Environmental,2025,L&T Construction,Civil Infrastructure Project Engineer,7.6,2024-12-31,Placed
+97,2025CS009,Komal Patel,Computer Science & Engineering,IT,2025,TCS,System Engineer (Ninja/Digital/Prime),3.93,2024-12-20,Joining Confirmed
+256,2025CS014,Rishi Bose,Computer Science & Engineering,DS,2025,Capgemini,Senior Analyst,4.93,2024-12-18,Placed
+258,2025CS014,Rishi Bose,Computer Science & Engineering,DS,2025,Amazon,SDE-1,35.69,2024-12-15,Offer Extended
+96,2025CS008,Priya Deshmukh,Computer Science & Engineering,CS,2025,Salesforce,Associate Member Technical Staff,18.46,2024-11-18,Offer Accepted
+279,2025EC011,Swati Chatterjee,Electronics & Communication Engineering,Core ECE,2025,Wipro,Project Engineer,4.85,2024-11-02,Placed
+267,2025EE007,Chetan Banerjee,Electrical & Electronics Engineering,Control & Automation,2025,Amazon,SDE-1,29.09,2024-10-30,Placed
+167,2025EC006,Preeti Das,Electronics & Communication Engineering,Telecom,2025,Intel,Firmware & Silicon Validation Engineer,16.22,2024-10-26,Offer Accepted
+99,2025CS011,Sarthak Sen,Computer Science & Engineering,AIDS,2025,NVIDIA,AI & Silicon Systems Engineer,34.72,2024-10-15,Placed
+275,2025CS018,Abhinav Malhotra,Computer Science & Engineering,DS,2025,Qualcomm,Hardware / Embedded Engineer,18.41,2024-10-09,Placed
+276,2025CS018,Abhinav Malhotra,Computer Science & Engineering,DS,2025,Wipro,Project Engineer,4.27,2024-09-15,Offer Accepted
+245,2025CE001,Preeti Verma,Civil Engineering,Environmental,2025,Cognizant,Programmer Analyst,5.38,2024-09-12,Placed
+168,2025EC006,Preeti Das,Electronics & Communication Engineering,Telecom,2025,Qualcomm,Hardware / Embedded Engineer,14.82,2024-09-10,Offer Extended
+165,2025EC003,Manish Malhotra,Electronics & Communication Engineering,Core ECE,2025,Qualcomm,Hardware / Embedded Engineer,14.36,2024-09-07,Joining Confirmed
+251,2025ME005,Karan Patel,Mechanical Engineering,Design & Robotics,2025,Siemens,Digital Industries Engineer,6.58,2024-09-02,Offer Accepted
+100,2025CS012,Ayush Gupta,Computer Science & Engineering,DS,2025,Morgan Stanley,Technology Associate,23.71,2024-08-29,Placed
+95,2025CS007,Shalini Mishra,Computer Science & Engineering,DS,2025,NVIDIA,AI & Silicon Systems Engineer,26.13,2024-08-26,Placed
+91,2025CS002,Alok Bhat,Computer Science & Engineering,DS,2025,Amazon,SDE-1,26.75,2024-08-23,Placed
+263,2025EC009,Anjali Narayanan,Electronics & Communication Engineering,Telecom,2025,Capgemini,Senior Analyst,5.03,2024-08-22,Joining Confirmed
+101,2025CS012,Ayush Gupta,Computer Science & Engineering,DS,2025,Deloitte,Technology Analyst,9.0,2024-08-19,Joining Confirmed
+282,2025EE008,Sanjana Mehta,Electrical & Electronics Engineering,Control & Automation,2025,L&T Infotech,Graduate Engineer Trainee,7.52,2024-08-18,Offer Extended
+228,2025ME004,Karthik Pandey,Mechanical Engineering,Automobile,2025,Accenture,Associate Software Engineer,4.82,2024-08-07,Offer Extended
+98,2025CS010,Harshit Sharma,Computer Science & Engineering,AIML,2025,Cognizant,Programmer Analyst,6.08,2024-08-07,Offer Accepted
+261,2025EE005,Shreya Banerjee,Electrical & Electronics Engineering,Power Systems,2025,Deloitte,Technology Analyst,8.24,2024-08-05,Placed
+255,2025EC008,Komal Varma,Electronics & Communication Engineering,Core ECE,2025,NVIDIA,AI & Silicon Systems Engineer,33.82,2024-08-04,Offer Accepted
+93,2025CS004,Akash Narayanan,Computer Science & Engineering,IT,2025,Amazon,SDE-1,30.37,2024-08-03,Joining Confirmed
+84,2024CS005,Nandini Banerjee,Computer Science & Engineering,CS,2024,Razorpay,Backend Systems Engineer,15.11,2024-03-25,Placed
+87,2024CS008,Komal Bhat,Computer Science & Engineering,AIDS,2024,Amazon,SDE-1,28.46,2024-03-19,Placed
+226,2024ME004,Vidya Kulkarni,Mechanical Engineering,Automobile,2024,Cognizant,Programmer Analyst,5.62,2024-03-16,Offer Accepted
+83,2024CS004,Niharika Kulkarni,Computer Science & Engineering,DS,2024,PwC,Technology Consulting Associate,8.73,2024-03-16,Placed
+244,2024CE003,Ananya Sharma,Civil Engineering,Structural,2024,L&T Construction,Civil Infrastructure Project Engineer,6.25,2024-03-12,Offer Accepted
+160,2024EC001,Abhinav Patel,Electronics & Communication Engineering,Telecom,2024,Texas Instruments,VLSI & Analog Design Engineer,22.01,2024-03-04,Placed
+223,2024ME002,Akash Gupta,Mechanical Engineering,Automobile,2024,Infosys,Systems Associate / Specialist,7.0,2024-03-03,Offer Accepted
+159,2024EC001,Abhinav Patel,Electronics & Communication Engineering,Telecom,2024,Bosch,Automotive Embedded Systems Engineer,8.79,2024-02-21,Offer Extended
+80,2024CS003,Ayush Dutta,Computer Science & Engineering,AIDS,2024,Intel,Firmware & Silicon Validation Engineer,17.68,2024-02-20,Joining Confirmed
+227,2024ME004,Vidya Kulkarni,Mechanical Engineering,Automobile,2024,Tata Motors,Automotive Design Engineer,6.37,2024-02-12,Placed
+90,2024CS011,Kavya Kulkarni,Computer Science & Engineering,IT,2024,Razorpay,Backend Systems Engineer,15.07,2024-01-26,Offer Accepted
+85,2024CS006,Siddharth Kumar,Computer Science & Engineering,IT,2024,Swiggy,Software Development Engineer,15.42,2024-01-24,Placed
+203,2024EE004,Niharika Menon,Electrical & Electronics Engineering,Control & Automation,2024,Texas Instruments,VLSI & Analog Design Engineer,21.94,2023-12-23,Placed
+162,2024EC003,Abhinav Deshmukh,Electronics & Communication Engineering,VLSI,2024,Bosch,Automotive Embedded Systems Engineer,8.02,2023-12-23,Placed
+200,2024EE001,Harsh Singh,Electrical & Electronics Engineering,Power Systems,2024,Qualcomm,Hardware / Embedded Engineer,14.52,2023-12-21,Offer Extended
+222,2024ME001,Diya Gupta,Mechanical Engineering,Design & Robotics,2024,TCS,System Engineer (Ninja/Digital/Prime),4.78,2023-12-12,Joining Confirmed
+201,2024EE001,Harsh Singh,Electrical & Electronics Engineering,Power Systems,2024,Maruti Suzuki,Graduate Engineer Trainee,8.3,2023-12-12,Offer Extended
+78,2024CS001,Amit Agarwal,Computer Science & Engineering,IT,2024,Wipro,Project Engineer,6.31,2023-11-03,Offer Extended
+86,2024CS008,Komal Bhat,Computer Science & Engineering,AIDS,2024,Cisco,Network Software Engineer,14.51,2023-11-01,Offer Accepted
+81,2024CS004,Niharika Kulkarni,Computer Science & Engineering,DS,2024,NVIDIA,AI & Silicon Systems Engineer,31.43,2023-10-22,Offer Accepted
+161,2024EC001,Abhinav Patel,Electronics & Communication Engineering,Telecom,2024,Goldman Sachs,Engineering & Tech Analyst,23.6,2023-10-21,Offer Accepted
+225,2024ME004,Vidya Kulkarni,Mechanical Engineering,Automobile,2024,Accenture,Associate Software Engineer,5.25,2023-10-10,Offer Accepted
+163,2024EC007,Akash Choudhury,Electronics & Communication Engineering,VLSI,2024,Microsoft,Software Development Engineer,27.44,2023-09-29,Joining Confirmed
+88,2024CS009,Alok Trivedi,Computer Science & Engineering,DS,2024,Accenture,Associate Software Engineer,6.11,2023-09-29,Offer Extended
+82,2024CS004,Niharika Kulkarni,Computer Science & Engineering,DS,2024,Intel,Firmware & Silicon Validation Engineer,16.01,2023-09-03,Joining Confirmed
+202,2024EE003,Rakesh Verma,Electrical & Electronics Engineering,Power Systems,2024,Cognizant,Programmer Analyst,5.76,2023-08-29,Offer Extended
+224,2024ME003,Ritika Chopra,Mechanical Engineering,Design & Robotics,2024,Bosch,Automotive Embedded Systems Engineer,7.31,2023-08-28,Offer Extended
+89,2024CS010,Niharika Kapoor,Computer Science & Engineering,CS,2024,Google,Software Engineer,31.41,2023-08-20,Placed
+79,2024CS001,Amit Agarwal,Computer Science & Engineering,IT,2024,Walmart Global Tech,Software Engineer,15.3,2023-08-01,Placed
+243,2023CE003,Sameer Singh,Civil Engineering,Environmental,2023,Infosys,Systems Associate / Specialist,6.83,2023-03-17,Offer Accepted
+77,2023CS012,Kunal Chatterjee,Computer Science & Engineering,CS,2023,Amazon,SDE-1,31.6,2023-03-14,Placed
+74,2023CS009,Swati Narayanan,Computer Science & Engineering,AIML,2023,Microsoft,Software Development Engineer,41.88,2023-03-10,Placed
+75,2023CS010,Anjali Sharma,Computer Science & Engineering,AIDS,2023,Adobe,Member of Technical Staff,30.54,2023-03-01,Placed
+66,2023CS001,Arjun Das,Computer Science & Engineering,DS,2023,Swiggy,Software Development Engineer,14.72,2023-03-01,Placed
+199,2023EE003,Siddharth Singh,Electrical & Electronics Engineering,Power Systems,2023,Infosys,Systems Associate / Specialist,4.29,2023-02-27,Placed
+155,2023EC006,Sarthak Banerjee,Electronics & Communication Engineering,VLSI,2023,Morgan Stanley,Technology Associate,19.75,2023-02-24,Offer Accepted
+220,2023ME001,Tarun Rao,Mechanical Engineering,Design & Robotics,2023,Accenture,Associate Software Engineer,4.9,2023-02-22,Placed
+158,2023EC007,Alok Sen,Electronics & Communication Engineering,Embedded,2023,Oracle,Member Technical Staff,15.7,2023-02-19,Placed
+73,2023CS009,Swati Narayanan,Computer Science & Engineering,AIML,2023,Adobe,Member of Technical Staff,33.55,2023-02-18,Offer Extended
+197,2023EE001,Gaurav Menon,Electrical & Electronics Engineering,Power Systems,2023,Deloitte,Technology Analyst,7.86,2023-02-10,Offer Extended
+221,2023ME002,Sneha Bose,Mechanical Engineering,Automobile,2023,Bosch,Automotive Embedded Systems Engineer,8.42,2023-01-29,Offer Accepted
+68,2023CS005,Dev Pillai,Computer Science & Engineering,AIDS,2023,Wipro,Project Engineer,4.55,2023-01-29,Joining Confirmed
+72,2023CS009,Swati Narayanan,Computer Science & Engineering,AIML,2023,Deloitte,Technology Analyst,9.77,2023-01-21,Placed
+157,2023EC007,Alok Sen,Electronics & Communication Engineering,Embedded,2023,Goldman Sachs,Engineering & Tech Analyst,22.1,2023-01-16,Placed
+151,2023EC004,Isha Malhotra,Electronics & Communication Engineering,Telecom,2023,Adobe,Member of Technical Staff,27.03,2023-01-12,Joining Confirmed
+76,2023CS011,Priyanka Chopra,Computer Science & Engineering,DS,2023,Walmart Global Tech,Software Engineer,14.28,2023-01-09,Offer Accepted
+69,2023CS005,Dev Pillai,Computer Science & Engineering,AIDS,2023,TCS,System Engineer (Ninja/Digital/Prime),5.27,2023-01-05,Placed
+156,2023EC007,Alok Sen,Electronics & Communication Engineering,Embedded,2023,Zoho Corp,Software Developer,7.57,2022-12-28,Placed
+65,2023CS001,Arjun Das,Computer Science & Engineering,DS,2023,Cognizant,Programmer Analyst,5.64,2022-12-18,Placed
+153,2023EC005,Suresh Kumar,Electronics & Communication Engineering,Core ECE,2023,PwC,Technology Consulting Associate,8.2,2022-12-03,Offer Accepted
+242,2023CE002,Anjali Pandey,Civil Engineering,Structural,2023,Accenture,Associate Software Engineer,5.49,2022-12-01,Offer Extended
+219,2023ME001,Tarun Rao,Mechanical Engineering,Design & Robotics,2023,Capgemini,Senior Analyst,5.71,2022-11-30,Placed
+241,2023CE002,Anjali Pandey,Civil Engineering,Structural,2023,PwC,Technology Consulting Associate,7.28,2022-11-20,Offer Extended
+154,2023EC005,Suresh Kumar,Electronics & Communication Engineering,Core ECE,2023,Infosys,Systems Associate / Specialist,5.31,2022-11-08,Offer Accepted
+152,2023EC005,Suresh Kumar,Electronics & Communication Engineering,Core ECE,2023,L&T Infotech,Graduate Engineer Trainee,7.59,2022-11-06,Offer Accepted
+70,2023CS006,Rohan Kulkarni,Computer Science & Engineering,DS,2023,Capgemini,Senior Analyst,4.15,2022-10-29,Joining Confirmed
+150,2023EC004,Isha Malhotra,Electronics & Communication Engineering,Telecom,2023,PwC,Technology Consulting Associate,7.13,2022-10-11,Offer Extended
+148,2023EC002,Priya Rao,Electronics & Communication Engineering,VLSI,2023,NVIDIA,AI & Silicon Systems Engineer,36.81,2022-10-10,Offer Accepted
+149,2023EC003,Niharika Varma,Electronics & Communication Engineering,Embedded,2023,TCS,System Engineer (Ninja/Digital/Prime),6.01,2022-10-02,Offer Accepted
+71,2023CS006,Rohan Kulkarni,Computer Science & Engineering,DS,2023,Cisco,Network Software Engineer,17.28,2022-09-13,Offer Accepted
+198,2023EE001,Gaurav Menon,Electrical & Electronics Engineering,Power Systems,2023,L&T Infotech,Graduate Engineer Trainee,7.9,2022-09-12,Placed
+67,2023CS004,Amit Mishra,Computer Science & Engineering,AIML,2023,Amazon,SDE-1,29.27,2022-08-31,Placed
+147,2023EC001,Anil Thakur,Electronics & Communication Engineering,Core ECE,2023,Cognizant,Programmer Analyst,4.99,2022-08-08,Offer Extended
+53,2022CS002,Kavya Bhat,Computer Science & Engineering,AIDS,2022,Wipro,Project Engineer,5.9,2022-03-24,Joining Confirmed
+196,2022EE004,Arjun Saxena,Electrical & Electronics Engineering,Control & Automation,2022,Siemens,Digital Industries Engineer,6.41,2022-03-20,Placed
+194,2022EE003,Shreya Saxena,Electrical & Electronics Engineering,Power Systems,2022,Tata Motors,Automotive Design Engineer,7.38,2022-03-04,Offer Extended
+145,2022EC008,Yash Malhotra,Electronics & Communication Engineering,Telecom,2022,Amazon,SDE-1,34.86,2022-03-01,Offer Accepted
+64,2022CS012,Swati Das,Computer Science & Engineering,AIDS,2022,Cisco,Network Software Engineer,18.26,2022-02-27,Offer Accepted
+141,2022EC003,Anjali Rao,Electronics & Communication Engineering,Embedded,2022,Apple,Systems Software Engineer,34.39,2022-02-22,Placed
+60,2022CS009,Meera Mishra,Computer Science & Engineering,CS,2022,Infosys,Systems Associate / Specialist,5.27,2022-01-29,Offer Extended
+143,2022EC006,Akash Patel,Electronics & Communication Engineering,VLSI,2022,Infosys,Systems Associate / Specialist,3.89,2021-12-29,Offer Accepted
+63,2022CS012,Swati Das,Computer Science & Engineering,AIDS,2022,PwC,Technology Consulting Associate,8.12,2021-12-25,Placed
+195,2022EE003,Shreya Saxena,Electrical & Electronics Engineering,Power Systems,2022,Capgemini,Senior Analyst,5.05,2021-12-16,Offer Extended
+146,2022EC008,Yash Malhotra,Electronics & Communication Engineering,Telecom,2022,Adobe,Member of Technical Staff,22.51,2021-11-27,Placed
+62,2022CS011,Divya Bhardwaj,Computer Science & Engineering,AIML,2022,Oracle,Member Technical Staff,13.51,2021-11-26,Joining Confirmed
+58,2022CS006,Pooja Banerjee,Computer Science & Engineering,AIML,2022,Goldman Sachs,Engineering & Tech Analyst,24.46,2021-11-24,Joining Confirmed
+144,2022EC008,Yash Malhotra,Electronics & Communication Engineering,Telecom,2022,NVIDIA,AI & Silicon Systems Engineer,36.73,2021-11-22,Placed
+52,2022CS001,Priya Banerjee,Computer Science & Engineering,AIML,2022,Zoho Corp,Software Developer,6.84,2021-10-30,Offer Extended
+215,2022ME001,Alok Trivedi,Mechanical Engineering,Design & Robotics,2022,TCS,System Engineer (Ninja/Digital/Prime),5.89,2021-10-29,Offer Accepted
+193,2022EE002,Anil Pillai,Electrical & Electronics Engineering,Control & Automation,2022,Texas Instruments,VLSI & Analog Design Engineer,15.64,2021-10-28,Joining Confirmed
+218,2022ME004,Tarun Bhat,Mechanical Engineering,Automobile,2022,Tata Motors,Automotive Design Engineer,7.69,2021-10-08,Offer Extended
+192,2022EE001,Ayush Kumar,Electrical & Electronics Engineering,Power Systems,2022,Wipro,Project Engineer,4.9,2021-09-27,Offer Accepted
+61,2022CS010,Vidya Iyer,Computer Science & Engineering,IT,2022,Google,Software Engineer,40.73,2021-09-26,Offer Accepted
+240,2022CE003,Sanjana Chatterjee,Civil Engineering,Structural,2022,Deloitte,Technology Analyst,8.59,2021-09-23,Placed
+59,2022CS007,Simran Mukherjee,Computer Science & Engineering,AIDS,2022,Google,Software Engineer,35.75,2021-09-19,Offer Extended
+56,2022CS004,Sneha Das,Computer Science & Engineering,CS,2022,Zoho Corp,Software Developer,7.65,2021-09-17,Offer Extended
+57,2022CS005,Vikram Bose,Computer Science & Engineering,IT,2022,TCS,System Engineer (Ninja/Digital/Prime),7.23,2021-09-14,Joining Confirmed
+217,2022ME002,Karan Thakur,Mechanical Engineering,Automobile,2022,Deloitte,Technology Analyst,8.45,2021-09-11,Joining Confirmed
+55,2022CS003,Riya Verma,Computer Science & Engineering,DS,2022,Goldman Sachs,Engineering & Tech Analyst,25.11,2021-09-06,Joining Confirmed
+54,2022CS002,Kavya Bhat,Computer Science & Engineering,AIDS,2022,Zoho Corp,Software Developer,6.75,2021-09-04,Offer Accepted
+142,2022EC004,Dev Nair,Electronics & Communication Engineering,Telecom,2022,Capgemini,Senior Analyst,6.46,2021-09-03,Placed
+216,2022ME002,Karan Thakur,Mechanical Engineering,Automobile,2022,Cognizant,Programmer Analyst,5.86,2021-08-24,Offer Accepted
+45,2021CS005,Alok Joshi,Computer Science & Engineering,DS,2021,Wipro,Project Engineer,5.9,2021-03-27,Placed
+213,2021ME004,Alok Deshmukh,Mechanical Engineering,Automobile,2021,Infosys,Systems Associate / Specialist,4.95,2021-03-25,Placed
+239,2021CE002,Chetan Iyer,Civil Engineering,Structural,2021,Accenture,Associate Software Engineer,4.83,2021-03-09,Placed
+132,2021EC001,Gaurav Singh,Electronics & Communication Engineering,Core ECE,2021,Morgan Stanley,Technology Associate,21.98,2021-03-06,Offer Accepted
+49,2021CS011,Priya Choudhury,Computer Science & Engineering,CS,2021,Amazon,SDE-1,30.93,2021-02-21,Joining Confirmed
+133,2021EC001,Gaurav Singh,Electronics & Communication Engineering,Core ECE,2021,Walmart Global Tech,Software Engineer,17.35,2021-02-05,Offer Accepted
+139,2021EC006,Mohit Pillai,Electronics & Communication Engineering,VLSI,2021,Qualcomm,Hardware / Embedded Engineer,14.89,2021-01-30,Placed
+138,2021EC004,Manish Chatterjee,Electronics & Communication Engineering,Telecom,2021,Amazon,SDE-1,25.89,2021-01-23,Offer Accepted
+51,2021CS012,Shreya Thakur,Computer Science & Engineering,IT,2021,Walmart Global Tech,Software Engineer,16.4,2021-01-11,Offer Accepted
+190,2021EE004,Divya Dutta,Electrical & Electronics Engineering,Control & Automation,2021,Bosch,Automotive Embedded Systems Engineer,6.75,2020-12-18,Offer Extended
+42,2021CS003,Rohan Kulkarni,Computer Science & Engineering,AIML,2021,Razorpay,Backend Systems Engineer,20.49,2020-12-12,Offer Extended
+46,2021CS006,Niharika Agarwal,Computer Science & Engineering,CS,2021,Qualcomm,Hardware / Embedded Engineer,17.36,2020-11-27,Placed
+191,2021EE004,Divya Dutta,Electrical & Electronics Engineering,Control & Automation,2021,PwC,Technology Consulting Associate,7.82,2020-11-06,Offer Accepted
+214,2021ME004,Alok Deshmukh,Mechanical Engineering,Automobile,2021,Cognizant,Programmer Analyst,4.26,2020-11-04,Offer Extended
+44,2021CS005,Alok Joshi,Computer Science & Engineering,DS,2021,Apple,Systems Software Engineer,27.36,2020-10-27,Placed
+43,2021CS004,Tarun Nambiar,Computer Science & Engineering,AIDS,2021,Accenture,Associate Software Engineer,6.1,2020-10-21,Placed
+41,2021CS003,Rohan Kulkarni,Computer Science & Engineering,AIML,2021,Accenture,Associate Software Engineer,4.83,2020-10-19,Offer Accepted
+40,2021CS001,Rohan Ghosh,Computer Science & Engineering,CS,2021,Google,Software Engineer,35.72,2020-10-15,Offer Extended
+137,2021EC004,Manish Chatterjee,Electronics & Communication Engineering,Telecom,2021,Deloitte,Technology Analyst,8.28,2020-10-07,Placed
+134,2021EC001,Gaurav Singh,Electronics & Communication Engineering,Core ECE,2021,Texas Instruments,VLSI & Analog Design Engineer,18.4,2020-09-29,Placed
+48,2021CS010,Tarun Chatterjee,Computer Science & Engineering,DS,2021,Google,Software Engineer,39.28,2020-09-22,Offer Accepted
+238,2021CE001,Kavya Sen,Civil Engineering,Environmental,2021,L&T Infotech,Graduate Engineer Trainee,6.27,2020-09-21,Offer Accepted
+50,2021CS011,Priya Choudhury,Computer Science & Engineering,CS,2021,NVIDIA,AI & Silicon Systems Engineer,29.76,2020-09-20,Offer Extended
+140,2021EC008,Harsh Thakur,Electronics & Communication Engineering,Telecom,2021,Oracle,Member Technical Staff,14.06,2020-09-14,Placed
+135,2021EC003,Vidya Mukherjee,Electronics & Communication Engineering,Embedded,2021,Apple,Systems Software Engineer,29.49,2020-09-12,Offer Extended
+136,2021EC003,Vidya Mukherjee,Electronics & Communication Engineering,Embedded,2021,PwC,Technology Consulting Associate,7.69,2020-08-31,Joining Confirmed
+189,2021EE002,Bhavya Narayanan,Electrical & Electronics Engineering,Control & Automation,2021,Qualcomm,Hardware / Embedded Engineer,16.84,2020-08-30,Offer Accepted
+47,2021CS008,Aditya Pillai,Computer Science & Engineering,AIML,2021,Infosys,Systems Associate / Specialist,5.07,2020-08-08,Joining Confirmed
+188,2021EE001,Shalini Patel,Electrical & Electronics Engineering,Power Systems,2021,Accenture,Associate Software Engineer,4.96,2020-08-07,Placed
+125,2020EC003,Varun Iyer,Electronics & Communication Engineering,Embedded,2020,Morgan Stanley,Technology Associate,20.78,2020-03-26,Offer Extended
+129,2020EC007,Vikram Patel,Electronics & Communication Engineering,Embedded,2020,Zoho Corp,Software Developer,7.74,2020-03-17,Offer Accepted
+29,2020CS004,Simran Varma,Computer Science & Engineering,IT,2020,Walmart Global Tech,Software Engineer,17.89,2020-02-29,Placed
+211,2020ME002,Anjali Ghosh,Mechanical Engineering,Automobile,2020,Infosys,Systems Associate / Specialist,4.97,2020-02-16,Joining Confirmed
+39,2020CS012,Pranav Pandey,Computer Science & Engineering,DS,2020,Intel,Firmware & Silicon Validation Engineer,15.15,2020-02-14,Joining Confirmed
+124,2020EC003,Varun Iyer,Electronics & Communication Engineering,Embedded,2020,Capgemini,Senior Analyst,5.94,2020-02-04,Joining Confirmed
+185,2020EE002,Siddharth Ghosh,Electrical & Electronics Engineering,Control & Automation,2020,Capgemini,Senior Analyst,5.81,2020-02-03,Joining Confirmed
+36,2020CS009,Swati Varma,Computer Science & Engineering,IT,2020,Zoho Corp,Software Developer,9.45,2020-01-21,Offer Extended
+35,2020CS008,Simran Pandey,Computer Science & Engineering,CS,2020,Cognizant,Programmer Analyst,4.7,2020-01-18,Offer Accepted
+236,2020CE001,Amit Varma,Civil Engineering,Structural,2020,Capgemini,Senior Analyst,5.45,2020-01-06,Placed
+131,2020EC008,Niharika Mukherjee,Electronics & Communication Engineering,Telecom,2020,Intel,Firmware & Silicon Validation Engineer,13.41,2019-12-24,Placed
+38,2020CS011,Simran Kapoor,Computer Science & Engineering,AIDS,2020,PwC,Technology Consulting Associate,8.64,2019-12-21,Joining Confirmed
+34,2020CS007,Swati Banerjee,Computer Science & Engineering,DS,2020,Cognizant,Programmer Analyst,5.99,2019-12-16,Joining Confirmed
+32,2020CS007,Swati Banerjee,Computer Science & Engineering,DS,2020,Walmart Global Tech,Software Engineer,16.7,2019-12-15,Joining Confirmed
+237,2020CE001,Amit Varma,Civil Engineering,Structural,2020,Accenture,Associate Software Engineer,6.55,2019-12-07,Placed
+28,2020CS004,Simran Varma,Computer Science & Engineering,IT,2020,Google,Software Engineer,43.25,2019-11-27,Placed
+187,2020EE004,Harsh Reddy,Electrical & Electronics Engineering,Control & Automation,2020,Goldman Sachs,Engineering & Tech Analyst,24.97,2019-11-18,Placed
+186,2020EE003,Sanya Rao,Electrical & Electronics Engineering,Power Systems,2020,Tata Motors,Automotive Design Engineer,6.24,2019-11-09,Joining Confirmed
+126,2020EC003,Varun Iyer,Electronics & Communication Engineering,Embedded,2020,Google,Software Engineer,31.73,2019-10-28,Placed
+37,2020CS011,Simran Kapoor,Computer Science & Engineering,AIDS,2020,Apple,Systems Software Engineer,27.17,2019-10-06,Placed
+212,2020ME004,Varsha Mishra,Mechanical Engineering,Automobile,2020,Tata Motors,Automotive Design Engineer,8.09,2019-10-03,Placed
+123,2020EC002,Priyanka Nair,Electronics & Communication Engineering,VLSI,2020,Oracle,Member Technical Staff,16.94,2019-10-02,Offer Extended
+31,2020CS005,Meera Choudhury,Computer Science & Engineering,AIML,2020,Morgan Stanley,Technology Associate,21.65,2019-09-09,Offer Extended
+128,2020EC006,Pranav Nambiar,Electronics & Communication Engineering,VLSI,2020,PwC,Technology Consulting Associate,9.11,2019-09-06,Offer Accepted
+30,2020CS005,Meera Choudhury,Computer Science & Engineering,AIML,2020,Swiggy,Software Development Engineer,18.71,2019-09-05,Offer Accepted
+27,2020CS001,Sameer Nambiar,Computer Science & Engineering,AIDS,2020,Capgemini,Senior Analyst,4.98,2019-08-30,Joining Confirmed
+127,2020EC005,Nikhil Verma,Electronics & Communication Engineering,Core ECE,2020,Cognizant,Programmer Analyst,5.65,2019-08-27,Placed
+184,2020EE001,Sarthak Kapoor,Electrical & Electronics Engineering,Power Systems,2020,Infosys,Systems Associate / Specialist,4.13,2019-08-26,Offer Accepted
+130,2020EC007,Vikram Patel,Electronics & Communication Engineering,Embedded,2020,Deloitte,Technology Analyst,9.74,2019-08-22,Joining Confirmed
+33,2020CS007,Swati Banerjee,Computer Science & Engineering,DS,2020,Accenture,Associate Software Engineer,5.46,2019-08-10,Offer Accepted
+122,2020EC001,Meera Saxena,Electronics & Communication Engineering,Core ECE,2020,Amazon,SDE-1,30.64,2019-08-03,Offer Accepted
+19,2019CS001,Aditi Gupta,Computer Science & Engineering,CS,2019,Capgemini,Senior Analyst,4.21,2019-03-19,Joining Confirmed
+208,2019ME001,Sanjana Agarwal,Mechanical Engineering,Design & Robotics,2019,Cognizant,Programmer Analyst,5.09,2019-02-28,Offer Accepted
+210,2019ME004,Mohit Mehta,Mechanical Engineering,Automobile,2019,Infosys,Systems Associate / Specialist,6.55,2019-02-27,Placed
+26,2019CS013,Isha Sen,Computer Science & Engineering,AIML,2019,Walmart Global Tech,Software Engineer,18.82,2019-02-17,Placed
+119,2019EC004,Deepika Bhardwaj,Electronics & Communication Engineering,Telecom,2019,Morgan Stanley,Technology Associate,23.04,2019-02-01,Offer Accepted
+22,2019CS007,Pallavi Sen,Computer Science & Engineering,IT,2019,Morgan Stanley,Technology Associate,25.63,2018-12-05,Joining Confirmed
+235,2019CE003,Harsh Reddy,Civil Engineering,Environmental,2019,TCS,System Engineer (Ninja/Digital/Prime),5.88,2018-11-27,Placed
+209,2019ME002,Deepika Bhardwaj,Mechanical Engineering,Automobile,2019,Accenture,Associate Software Engineer,4.71,2018-11-22,Placed
+24,2019CS009,Tarun Iyer,Computer Science & Engineering,AIDS,2019,Qualcomm,Hardware / Embedded Engineer,16.64,2018-11-19,Joining Confirmed
+21,2019CS005,Ishita Singh,Computer Science & Engineering,DS,2019,Goldman Sachs,Engineering & Tech Analyst,25.78,2018-11-16,Offer Accepted
+18,2019CS001,Aditi Gupta,Computer Science & Engineering,CS,2019,Salesforce,Associate Member Technical Staff,16.09,2018-11-14,Offer Extended
+23,2019CS008,Yash Bhardwaj,Computer Science & Engineering,AIML,2019,Adobe,Member of Technical Staff,25.66,2018-11-10,Offer Accepted
+234,2019CE003,Harsh Reddy,Civil Engineering,Environmental,2019,Wipro,Project Engineer,5.86,2018-10-24,Offer Accepted
+25,2019CS010,Alok Kulkarni,Computer Science & Engineering,DS,2019,Wipro,Project Engineer,4.1,2018-10-20,Placed
+20,2019CS004,Akash Kulkarni,Computer Science & Engineering,AIDS,2019,Salesforce,Associate Member Technical Staff,17.19,2018-10-08,Offer Accepted
+118,2019EC004,Deepika Bhardwaj,Electronics & Communication Engineering,Telecom,2019,Cognizant,Programmer Analyst,5.51,2018-09-27,Offer Accepted
+233,2019CE002,Priya Kulkarni,Civil Engineering,Structural,2019,Infosys,Systems Associate / Specialist,5.83,2018-09-26,Offer Accepted
+117,2019EC003,Varsha Saxena,Electronics & Communication Engineering,Embedded,2019,Intel,Firmware & Silicon Validation Engineer,18.06,2018-09-15,Placed
+121,2019EC007,Ishita Singh,Electronics & Communication Engineering,Embedded,2019,Microsoft,Software Development Engineer,41.27,2018-08-18,Offer Extended
+120,2019EC006,Swati Nambiar,Electronics & Communication Engineering,VLSI,2019,Zoho Corp,Software Developer,8.52,2018-08-14,Placed
+116,2019EC002,Anjali Gupta,Electronics & Communication Engineering,VLSI,2019,Cognizant,Programmer Analyst,5.22,2018-08-12,Placed
+1,2018CS001,Nikhil Verma,Computer Science & Engineering,AIML,2018,Apple,Systems Software Engineer,41.32,2018-03-24,Placed
+112,2018EC004,Swati Mukherjee,Electronics & Communication Engineering,Telecom,2018,Adobe,Member of Technical Staff,31.0,2018-03-12,Offer Accepted
+6,2018CS005,Nandini Pillai,Computer Science & Engineering,IT,2018,L&T Infotech,Graduate Engineer Trainee,6.48,2018-03-02,Offer Extended
+232,2018CE003,Dev Kulkarni,Civil Engineering,Structural,2018,L&T Infotech,Graduate Engineer Trainee,7.48,2018-02-02,Joining Confirmed
+207,2018ME003,Pallavi Banerjee,Mechanical Engineering,Design & Robotics,2018,TCS,System Engineer (Ninja/Digital/Prime),6.95,2018-01-23,Placed
+3,2018CS002,Akshay Nair,Computer Science & Engineering,AIDS,2018,Microsoft,Software Development Engineer,40.79,2018-01-23,Offer Accepted
+12,2018CS008,Isha Narayanan,Computer Science & Engineering,DS,2018,Salesforce,Associate Member Technical Staff,19.02,2018-01-22,Joining Confirmed
+9,2018CS007,Yash Deshmukh,Computer Science & Engineering,AIDS,2018,Intel,Firmware & Silicon Validation Engineer,16.33,2018-01-05,Joining Confirmed
+17,2018CS013,Sanya Narayanan,Computer Science & Engineering,DS,2018,Google,Software Engineer,29.43,2017-12-20,Placed
+114,2018EC006,Dev Narayanan,Electronics & Communication Engineering,VLSI,2018,Bosch,Automotive Embedded Systems Engineer,8.19,2017-12-06,Offer Extended
+111,2018EC001,Rishi Varma,Electronics & Communication Engineering,Core ECE,2018,Accenture,Associate Software Engineer,4.53,2017-12-06,Offer Accepted
+2,2018CS002,Akshay Nair,Computer Science & Engineering,AIDS,2018,Wipro,Project Engineer,6.16,2017-11-30,Offer Accepted
+16,2018CS012,Vikram Singh,Computer Science & Engineering,AIDS,2018,Amazon,SDE-1,26.25,2017-11-23,Joining Confirmed
+15,2018CS011,Deepika Singh,Computer Science & Engineering,AIML,2018,Google,Software Engineer,43.09,2017-11-22,Offer Accepted
+113,2018EC005,Nandini Thakur,Electronics & Communication Engineering,Core ECE,2018,Google,Software Engineer,33.36,2017-11-18,Offer Accepted
+11,2018CS008,Isha Narayanan,Computer Science & Engineering,DS,2018,Razorpay,Backend Systems Engineer,18.43,2017-10-31,Joining Confirmed
+10,2018CS007,Yash Deshmukh,Computer Science & Engineering,AIDS,2018,Razorpay,Backend Systems Engineer,21.78,2017-10-23,Placed
+5,2018CS005,Nandini Pillai,Computer Science & Engineering,IT,2018,Salesforce,Associate Member Technical Staff,22.5,2017-10-16,Placed
+13,2018CS009,Varsha Joshi,Computer Science & Engineering,CS,2018,L&T Infotech,Graduate Engineer Trainee,6.59,2017-10-03,Placed
+8,2018CS007,Yash Deshmukh,Computer Science & Engineering,AIDS,2018,Microsoft,Software Development Engineer,27.56,2017-09-29,Placed
+4,2018CS004,Sakshi Mukherjee,Computer Science & Engineering,CS,2018,Qualcomm,Hardware / Embedded Engineer,14.09,2017-09-23,Joining Confirmed
+115,2018EC007,Suresh Singh,Electronics & Communication Engineering,Embedded,2018,Bosch,Automotive Embedded Systems Engineer,6.95,2017-09-10,Offer Accepted
+14,2018CS010,Gaurav Mehta,Computer Science & Engineering,IT,2018,Wipro,Project Engineer,5.85,2017-09-09,Offer Extended
+7,2018CS006,Rajesh Thakur,Computer Science & Engineering,AIML,2018,Salesforce,Associate Member Technical Staff,21.29,2017-09-05,Placed
+231,2018CE003,Dev Kulkarni,Civil Engineering,Structural,2018,Cognizant,Programmer Analyst,4.56,2017-08-25,Offer Extended
+183,2018EE002,Shivam Saxena,Electrical & Electronics Engineering,Control & Automation,2018,TCS,System Engineer (Ninja/Digital/Prime),4.23,2017-08-20,Joining Confirmed
+206,2018ME001,Karthik Saxena,Mechanical Engineering,Design & Robotics,2018,Bosch,Automotive Embedded Systems Engineer,8.92,2017-08-06,Offer Accepted

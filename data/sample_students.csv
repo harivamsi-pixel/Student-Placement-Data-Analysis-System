@@ -1,0 +1,321 @@
+student_id,roll_no,student_name,department,sub_branch,graduation_year,eligible,skills,placement_offers
+251,2018CE001,Amit Joshi,Civil Engineering,Structural,2018,Yes,SQL; AutoCAD; ANSYS; Revit; Structural Analysis,0
+252,2018CE002,Rakesh Verma,Civil Engineering,Environmental,2018,Yes,SQL; MATLAB; AutoCAD,0
+253,2018CE003,Dev Kulkarni,Civil Engineering,Structural,2018,Yes,Python; MATLAB; ANSYS; Revit,2
+1,2018CS001,Nikhil Verma,Computer Science & Engineering,AIML,2018,Yes,SQL; Data Structures & Algorithms; Next.js,1
+2,2018CS002,Akshay Nair,Computer Science & Engineering,AIDS,2018,Yes,Python; C++; Node.js; MATLAB,2
+3,2018CS003,Arjun Dutta,Computer Science & Engineering,DS,2018,Yes,Python; Next.js; FastAPI; PostgreSQL; AWS; Kubernetes,0
+4,2018CS004,Sakshi Mukherjee,Computer Science & Engineering,CS,2018,Yes,SQL; Data Structures & Algorithms; Node.js; Machine Learning,1
+5,2018CS005,Nandini Pillai,Computer Science & Engineering,IT,2018,Yes,SQL; MongoDB; Generative AI & LLMs; Docker,2
+6,2018CS006,Rajesh Thakur,Computer Science & Engineering,AIML,2018,Yes,Java; Next.js; FastAPI,1
+7,2018CS007,Yash Deshmukh,Computer Science & Engineering,AIDS,2018,Yes,React; PostgreSQL; Deep Learning; Git & GitHub,3
+8,2018CS008,Isha Narayanan,Computer Science & Engineering,DS,2018,Yes,Data Structures & Algorithms; React; Node.js; Next.js; Docker,2
+9,2018CS009,Varsha Joshi,Computer Science & Engineering,CS,2018,Yes,Java; Next.js; Machine Learning,1
+10,2018CS010,Gaurav Mehta,Computer Science & Engineering,IT,2018,No,Node.js; PostgreSQL; Machine Learning; Kubernetes; Git & GitHub,1
+11,2018CS011,Deepika Singh,Computer Science & Engineering,AIML,2018,Yes,Spring Boot; FastAPI; PostgreSQL; AWS; Docker,1
+12,2018CS012,Vikram Singh,Computer Science & Engineering,AIDS,2018,Yes,Java; SQL; Data Structures & Algorithms,1
+13,2018CS013,Sanya Narayanan,Computer Science & Engineering,DS,2018,Yes,Spring Boot; Docker; Kubernetes; Git & GitHub,1
+111,2018EC001,Rishi Varma,Electronics & Communication Engineering,Core ECE,2018,Yes,Python; Data Structures & Algorithms; Git & GitHub; Embedded Systems; MATLAB,1
+112,2018EC002,Meera Kapoor,Electronics & Communication Engineering,VLSI,2018,No,VLSI Design; Verilog; Digital Signal Processing,0
+113,2018EC003,Aditi Banerjee,Electronics & Communication Engineering,Embedded,2018,No,Python; Linux; Embedded Systems; IoT; Digital Signal Processing,0
+114,2018EC004,Swati Mukherjee,Electronics & Communication Engineering,Telecom,2018,Yes,Generative AI & LLMs; VLSI Design; Verilog; MATLAB; Digital Signal Processing,1
+115,2018EC005,Nandini Thakur,Electronics & Communication Engineering,Core ECE,2018,Yes,C++; Data Structures & Algorithms; Git & GitHub; Verilog; MATLAB,1
+116,2018EC006,Dev Narayanan,Electronics & Communication Engineering,VLSI,2018,Yes,SQL; Git & GitHub; VLSI Design; IoT,1
+117,2018EC007,Suresh Singh,Electronics & Communication Engineering,Embedded,2018,Yes,C++; Data Structures & Algorithms; Git & GitHub; Verilog; Digital Signal Processing,1
+118,2018EC008,Pranav Nair,Electronics & Communication Engineering,Telecom,2018,No,Git & GitHub; Embedded Systems; VLSI Design; MATLAB,0
+179,2018EE001,Sunil Mukherjee,Electrical & Electronics Engineering,Power Systems,2018,Yes,Python; Embedded Systems; AutoCAD; PLC & SCADA,0
+180,2018EE002,Shivam Saxena,Electrical & Electronics Engineering,Control & Automation,2018,Yes,SQL; Linux; Generative AI & LLMs; Embedded Systems; MATLAB; AutoCAD,1
+181,2018EE003,Sanjana Pandey,Electrical & Electronics Engineering,Power Systems,2018,Yes,Python; Linux; Embedded Systems; Power Systems,0
+182,2018EE004,Neha Bhardwaj,Electrical & Electronics Engineering,Control & Automation,2018,Yes,Python; C++; MATLAB; SolidWorks; PLC & SCADA,0
+215,2018ME001,Karthik Saxena,Mechanical Engineering,Design & Robotics,2018,Yes,Python; C++; Linux; SolidWorks,1
+216,2018ME002,Niharika Malhotra,Mechanical Engineering,Automobile,2018,Yes,Python; Linux; ANSYS,0
+217,2018ME003,Pallavi Banerjee,Mechanical Engineering,Design & Robotics,2018,Yes,C++; Linux; MATLAB; SolidWorks; ANSYS,1
+218,2018ME004,Swati Bhardwaj,Mechanical Engineering,Automobile,2018,Yes,Python; Linux; MATLAB; ANSYS; Robotics & ROS,0
+254,2019CE001,Diya Singh,Civil Engineering,Environmental,2019,Yes,Python; MATLAB; Revit; Structural Analysis,0
+255,2019CE002,Priya Kulkarni,Civil Engineering,Structural,2019,Yes,Python; MATLAB; Revit,1
+256,2019CE003,Harsh Reddy,Civil Engineering,Environmental,2019,Yes,Python; MATLAB; AutoCAD; ANSYS; Revit,2
+14,2019CS001,Aditi Gupta,Computer Science & Engineering,CS,2019,Yes,Python; SQL; Data Structures & Algorithms; Node.js; Spring Boot; Machine Learning,2
+15,2019CS002,Deepika Malhotra,Computer Science & Engineering,IT,2019,Yes,C++; SQL; React; Node.js; FastAPI,0
+16,2019CS003,Akshay Varma,Computer Science & Engineering,AIML,2019,No,Python; Java; React; Machine Learning; Kubernetes,0
+17,2019CS004,Akash Kulkarni,Computer Science & Engineering,AIDS,2019,Yes,Java; C++; PostgreSQL; AWS; Kubernetes,1
+18,2019CS005,Ishita Singh,Computer Science & Engineering,DS,2019,Yes,React; Spring Boot; PostgreSQL; Kubernetes,1
+19,2019CS006,Sanya Mehta,Computer Science & Engineering,CS,2019,No,Node.js; FastAPI; Machine Learning; Generative AI & LLMs; Docker,0
+20,2019CS007,Pallavi Sen,Computer Science & Engineering,IT,2019,Yes,Python; C++; Machine Learning,1
+21,2019CS008,Yash Bhardwaj,Computer Science & Engineering,AIML,2019,Yes,Java; C++; Next.js,1
+22,2019CS009,Tarun Iyer,Computer Science & Engineering,AIDS,2019,Yes,Data Structures & Algorithms; Node.js; Deep Learning; Kubernetes,1
+23,2019CS010,Alok Kulkarni,Computer Science & Engineering,DS,2019,Yes,SQL; Node.js; Machine Learning; Git & GitHub,1
+24,2019CS011,Sanya Nambiar,Computer Science & Engineering,CS,2019,Yes,Java; SQL; Data Structures & Algorithms; Node.js; PostgreSQL; Deep Learning,0
+25,2019CS012,Rishi Kumar,Computer Science & Engineering,IT,2019,Yes,Data Structures & Algorithms; React; PostgreSQL; AWS,0
+26,2019CS013,Isha Sen,Computer Science & Engineering,AIML,2019,Yes,Python; Java; SQL; Generative AI & LLMs; Git & GitHub,1
+119,2019EC001,Rajesh Varma,Electronics & Communication Engineering,Core ECE,2019,Yes,Data Structures & Algorithms; Embedded Systems; Verilog; Digital Signal Processing,0
+120,2019EC002,Anjali Gupta,Electronics & Communication Engineering,VLSI,2019,Yes,Embedded Systems; VLSI Design; MATLAB,1
+121,2019EC003,Varsha Saxena,Electronics & Communication Engineering,Embedded,2019,Yes,Python; C++; Linux; Verilog,1
+122,2019EC004,Deepika Bhardwaj,Electronics & Communication Engineering,Telecom,2019,Yes,Python; C++; VLSI Design; IoT; Digital Signal Processing,2
+123,2019EC005,Varsha Chatterjee,Electronics & Communication Engineering,Core ECE,2019,No,Python; Data Structures & Algorithms; Digital Signal Processing,0
+124,2019EC006,Swati Nambiar,Electronics & Communication Engineering,VLSI,2019,Yes,C++; REST APIs; Verilog; Digital Signal Processing,1
+125,2019EC007,Ishita Singh,Electronics & Communication Engineering,Embedded,2019,Yes,Data Structures & Algorithms; Linux; Embedded Systems; MATLAB,1
+126,2019EC008,Manish Kapoor,Electronics & Communication Engineering,Telecom,2019,Yes,C++; VLSI Design; IoT; Digital Signal Processing,0
+183,2019EE001,Shreya Banerjee,Electrical & Electronics Engineering,Power Systems,2019,No,Python; SQL; Power Systems; PLC & SCADA,0
+184,2019EE002,Priyanka Patel,Electrical & Electronics Engineering,Control & Automation,2019,Yes,Python; Embedded Systems; MATLAB,0
+185,2019EE003,Harshit Choudhury,Electrical & Electronics Engineering,Power Systems,2019,No,Python; C++; Computer Vision; IoT; MATLAB; AutoCAD,0
+186,2019EE004,Dev Agarwal,Electrical & Electronics Engineering,Control & Automation,2019,Yes,SQL; Next.js; Embedded Systems; IoT; AutoCAD,0
+219,2019ME001,Sanjana Agarwal,Mechanical Engineering,Design & Robotics,2019,Yes,Python; C++; MATLAB; AutoCAD,1
+220,2019ME002,Deepika Bhardwaj,Mechanical Engineering,Automobile,2019,Yes,Python; MATLAB; AutoCAD; SolidWorks; Robotics & ROS,1
+221,2019ME003,Rishi Patel,Mechanical Engineering,Design & Robotics,2019,Yes,Linux; AutoCAD; SolidWorks; ANSYS; Robotics & ROS,0
+222,2019ME004,Mohit Mehta,Mechanical Engineering,Automobile,2019,Yes,Python; C++; Linux; AutoCAD; SolidWorks,1
+257,2020CE001,Amit Varma,Civil Engineering,Structural,2020,Yes,SQL; Embedded Systems; ANSYS; Revit; Structural Analysis,2
+258,2020CE002,Alok Kulkarni,Civil Engineering,Environmental,2020,Yes,Python; SQL; ANSYS; Revit,0
+259,2020CE003,Varsha Nambiar,Civil Engineering,Structural,2020,No,Python; SQL; MATLAB; SolidWorks; ANSYS; Revit,0
+27,2020CS001,Sameer Nambiar,Computer Science & Engineering,AIDS,2020,Yes,Java; React; Generative AI & LLMs,1
+28,2020CS002,Divya Pandey,Computer Science & Engineering,DS,2020,No,C++; FastAPI; AWS; Kubernetes,0
+29,2020CS003,Diya Bhardwaj,Computer Science & Engineering,CS,2020,Yes,Java; Machine Learning; Git & GitHub,0
+30,2020CS004,Simran Varma,Computer Science & Engineering,IT,2020,Yes,Java; C++; React; FastAPI; PostgreSQL,2
+31,2020CS005,Meera Choudhury,Computer Science & Engineering,AIML,2020,Yes,Java; C++; Node.js; Next.js; Machine Learning,2
+32,2020CS006,Pallavi Chatterjee,Computer Science & Engineering,AIDS,2020,No,Next.js; Spring Boot; Machine Learning,0
+33,2020CS007,Swati Banerjee,Computer Science & Engineering,DS,2020,Yes,Python; SQL; FastAPI; Docker,3
+34,2020CS008,Simran Pandey,Computer Science & Engineering,CS,2020,Yes,C++; Data Structures & Algorithms; Next.js; Deep Learning; Embedded Systems,1
+35,2020CS009,Swati Varma,Computer Science & Engineering,IT,2020,Yes,Java; SQL; Data Structures & Algorithms; FastAPI; Kubernetes,1
+36,2020CS010,Komal Chopra,Computer Science & Engineering,AIML,2020,Yes,Node.js; PostgreSQL; Machine Learning; Docker; Git & GitHub,0
+37,2020CS011,Simran Kapoor,Computer Science & Engineering,AIDS,2020,Yes,C++; Spring Boot; Deep Learning; AWS,2
+38,2020CS012,Pranav Pandey,Computer Science & Engineering,DS,2020,Yes,Python; Java; PostgreSQL; AWS; Power Systems,1
+127,2020EC001,Meera Saxena,Electronics & Communication Engineering,Core ECE,2020,Yes,C++; Object-Oriented Programming; Linux; Git & GitHub; IoT; MATLAB,1
+128,2020EC002,Priyanka Nair,Electronics & Communication Engineering,VLSI,2020,Yes,C++; SQL; Data Structures & Algorithms; Linux; Git & GitHub; IoT,1
+129,2020EC003,Varun Iyer,Electronics & Communication Engineering,Embedded,2020,Yes,SQL; Data Structures & Algorithms; Git & GitHub; VLSI Design; IoT,3
+130,2020EC004,Aarav Mishra,Electronics & Communication Engineering,Telecom,2020,Yes,Linux; Embedded Systems; Verilog,0
+131,2020EC005,Nikhil Verma,Electronics & Communication Engineering,Core ECE,2020,Yes,C++; TypeScript; SQL; VLSI Design; IoT,1
+132,2020EC006,Pranav Nambiar,Electronics & Communication Engineering,VLSI,2020,Yes,Python; Data Structures & Algorithms; Git & GitHub; IoT; Digital Signal Processing,1
+133,2020EC007,Vikram Patel,Electronics & Communication Engineering,Embedded,2020,Yes,C++; Linux; Git & GitHub; Verilog; Digital Signal Processing,2
+134,2020EC008,Niharika Mukherjee,Electronics & Communication Engineering,Telecom,2020,Yes,Python; SQL; React; Git & GitHub; Digital Signal Processing,1
+187,2020EE001,Sarthak Kapoor,Electrical & Electronics Engineering,Power Systems,2020,Yes,C++; Embedded Systems; MATLAB; AutoCAD; Power Systems,1
+188,2020EE002,Siddharth Ghosh,Electrical & Electronics Engineering,Control & Automation,2020,Yes,Python; C++; MATLAB; Power Systems,1
+189,2020EE003,Sanya Rao,Electrical & Electronics Engineering,Power Systems,2020,Yes,Python; C++; IoT; MATLAB,1
+190,2020EE004,Harsh Reddy,Electrical & Electronics Engineering,Control & Automation,2020,Yes,Python; MATLAB; AutoCAD; Power Systems; PLC & SCADA,1
+223,2020ME001,Varsha Chatterjee,Mechanical Engineering,Design & Robotics,2020,No,C++; SolidWorks; ANSYS; Robotics & ROS,0
+224,2020ME002,Anjali Ghosh,Mechanical Engineering,Automobile,2020,Yes,C++; Linux; Redis; MATLAB; SolidWorks; Robotics & ROS,1
+225,2020ME003,Vikram Menon,Mechanical Engineering,Design & Robotics,2020,Yes,Python; C++; Linux; ANSYS; Robotics & ROS,0
+226,2020ME004,Varsha Mishra,Mechanical Engineering,Automobile,2020,Yes,Python; C++; SolidWorks; ANSYS; Robotics & ROS; PLC & SCADA,1
+260,2021CE001,Kavya Sen,Civil Engineering,Environmental,2021,Yes,Python; Generative AI & LLMs; MATLAB; Revit,1
+261,2021CE002,Chetan Iyer,Civil Engineering,Structural,2021,Yes,Python; SQL; Deep Learning; MATLAB; ANSYS; Revit,1
+262,2021CE003,Swati Sharma,Civil Engineering,Environmental,2021,Yes,Python; AutoCAD; ANSYS,0
+39,2021CS001,Rohan Ghosh,Computer Science & Engineering,CS,2021,Yes,C++; Data Structures & Algorithms; PostgreSQL; Natural Language Processing; AWS,1
+40,2021CS002,Chetan Pillai,Computer Science & Engineering,IT,2021,Yes,SQL; Deep Learning; AWS,0
+41,2021CS003,Rohan Kulkarni,Computer Science & Engineering,AIML,2021,Yes,Python; React; AWS,2
+42,2021CS004,Tarun Nambiar,Computer Science & Engineering,AIDS,2021,Yes,C++; React; Next.js; Spring Boot; Deep Learning; Generative AI & LLMs,1
+43,2021CS005,Alok Joshi,Computer Science & Engineering,DS,2021,Yes,SQL; Next.js; Spring Boot; FastAPI; Deep Learning,2
+44,2021CS006,Niharika Agarwal,Computer Science & Engineering,CS,2021,Yes,Spring Boot; Deep Learning; Generative AI & LLMs,1
+45,2021CS007,Ishita Agarwal,Computer Science & Engineering,IT,2021,No,React; Spring Boot; PostgreSQL; MATLAB,0
+46,2021CS008,Aditya Pillai,Computer Science & Engineering,AIML,2021,Yes,SQL; Node.js; AWS; Git & GitHub,1
+47,2021CS009,Sneha Pandey,Computer Science & Engineering,AIDS,2021,Yes,Python; React; Node.js; Git & GitHub,0
+48,2021CS010,Tarun Chatterjee,Computer Science & Engineering,DS,2021,Yes,FastAPI; PostgreSQL; Git & GitHub,1
+49,2021CS011,Priya Choudhury,Computer Science & Engineering,CS,2021,Yes,Data Structures & Algorithms; Node.js; Machine Learning; AWS; Git & GitHub,2
+50,2021CS012,Shreya Thakur,Computer Science & Engineering,IT,2021,Yes,Python; SQL; Node.js; FastAPI; Git & GitHub,1
+135,2021EC001,Gaurav Singh,Electronics & Communication Engineering,Core ECE,2021,Yes,SQL; Linux; Verilog; IoT; MATLAB,3
+136,2021EC002,Aditya Deshmukh,Electronics & Communication Engineering,VLSI,2021,Yes,Data Structures & Algorithms; Linux; Git & GitHub,0
+137,2021EC003,Vidya Mukherjee,Electronics & Communication Engineering,Embedded,2021,Yes,IoT; MATLAB; Digital Signal Processing,2
+138,2021EC004,Manish Chatterjee,Electronics & Communication Engineering,Telecom,2021,Yes,Python; SQL; Embedded Systems; Verilog; IoT; Digital Signal Processing,2
+139,2021EC005,Karan Mukherjee,Electronics & Communication Engineering,Core ECE,2021,Yes,C++; Linux; Git & GitHub; Embedded Systems; IoT,0
+140,2021EC006,Mohit Pillai,Electronics & Communication Engineering,VLSI,2021,Yes,C++; SQL; Git & GitHub; Verilog,1
+141,2021EC007,Simran Mehta,Electronics & Communication Engineering,Embedded,2021,Yes,Python; Linux; VLSI Design; IoT,0
+142,2021EC008,Harsh Thakur,Electronics & Communication Engineering,Telecom,2021,Yes,SQL; Data Structures & Algorithms; Linux; Git & GitHub; ANSYS,1
+191,2021EE001,Shalini Patel,Electrical & Electronics Engineering,Power Systems,2021,Yes,Python; SQL; AutoCAD,1
+192,2021EE002,Bhavya Narayanan,Electrical & Electronics Engineering,Control & Automation,2021,Yes,Python; SQL; Linux; IoT; AutoCAD,1
+193,2021EE003,Shivam Saxena,Electrical & Electronics Engineering,Power Systems,2021,Yes,Python; C++; CI/CD Pipelines; Embedded Systems; MATLAB; Power Systems,0
+194,2021EE004,Divya Dutta,Electrical & Electronics Engineering,Control & Automation,2021,Yes,Python; C++; Embedded Systems; IoT,2
+227,2021ME001,Kavya Pillai,Mechanical Engineering,Design & Robotics,2021,No,Python; Linux; MATLAB; SolidWorks; Robotics & ROS,0
+228,2021ME002,Kunal Dutta,Mechanical Engineering,Automobile,2021,Yes,Python; MATLAB; SolidWorks,0
+229,2021ME003,Rishi Reddy,Mechanical Engineering,Design & Robotics,2021,Yes,Python; MATLAB; AutoCAD; SolidWorks; Robotics & ROS,0
+230,2021ME004,Alok Deshmukh,Mechanical Engineering,Automobile,2021,Yes,MATLAB; AutoCAD; SolidWorks,2
+263,2022CE001,Varun Choudhury,Civil Engineering,Structural,2022,No,Python; SQL; MATLAB; ANSYS; Structural Analysis,0
+264,2022CE002,Akash Pandey,Civil Engineering,Environmental,2022,Yes,SQL; AutoCAD; ANSYS; Structural Analysis,0
+265,2022CE003,Sanjana Chatterjee,Civil Engineering,Structural,2022,Yes,Python; SQL; MATLAB; AutoCAD; Revit,1
+51,2022CS001,Priya Banerjee,Computer Science & Engineering,AIML,2022,Yes,Node.js; Generative AI & LLMs; Docker; Kubernetes; Git & GitHub,1
+52,2022CS002,Kavya Bhat,Computer Science & Engineering,AIDS,2022,Yes,C++; Data Structures & Algorithms; Next.js; Spring Boot; PostgreSQL; Machine Learning,2
+53,2022CS003,Riya Verma,Computer Science & Engineering,DS,2022,Yes,C++; AWS; Docker; Git & GitHub,1
+54,2022CS004,Sneha Das,Computer Science & Engineering,CS,2022,Yes,Python; SQL; Data Structures & Algorithms,1
+55,2022CS005,Vikram Bose,Computer Science & Engineering,IT,2022,Yes,Java; SQL; Spring Boot; Docker; Git & GitHub,1
+56,2022CS006,Pooja Banerjee,Computer Science & Engineering,AIML,2022,Yes,FastAPI; Machine Learning; Docker; Git & GitHub,1
+57,2022CS007,Simran Mukherjee,Computer Science & Engineering,AIDS,2022,Yes,Data Structures & Algorithms; React; Next.js; Docker; Kubernetes,1
+58,2022CS008,Harsh Varma,Computer Science & Engineering,DS,2022,Yes,C++; Spring Boot; Docker,0
+59,2022CS009,Meera Mishra,Computer Science & Engineering,CS,2022,Yes,C++; SQL; Data Structures & Algorithms; Node.js; Git & GitHub,1
+60,2022CS010,Vidya Iyer,Computer Science & Engineering,IT,2022,Yes,Python; PostgreSQL; TensorFlow; AWS; Docker,1
+61,2022CS011,Divya Bhardwaj,Computer Science & Engineering,AIML,2022,No,Python; Generative AI & LLMs; Kubernetes,1
+62,2022CS012,Swati Das,Computer Science & Engineering,AIDS,2022,Yes,SQL; Next.js; PostgreSQL; Kubernetes; Microsoft Azure,2
+143,2022EC001,Kunal Verma,Electronics & Communication Engineering,Core ECE,2022,Yes,C++; Data Structures & Algorithms; Embedded Systems; Verilog; IoT,0
+144,2022EC002,Niharika Iyer,Electronics & Communication Engineering,VLSI,2022,Yes,Python; C++; Linux; VLSI Design; MATLAB,0
+145,2022EC003,Anjali Rao,Electronics & Communication Engineering,Embedded,2022,Yes,Python; C++; SQL; Data Structures & Algorithms; IoT; Digital Signal Processing,1
+146,2022EC004,Dev Nair,Electronics & Communication Engineering,Telecom,2022,Yes,SQL; Data Structures & Algorithms; Git & GitHub; MATLAB; Digital Signal Processing,1
+147,2022EC005,Nikhil Pillai,Electronics & Communication Engineering,Core ECE,2022,Yes,SQL; Data Structures & Algorithms; Git & GitHub; Digital Signal Processing,0
+148,2022EC006,Akash Patel,Electronics & Communication Engineering,VLSI,2022,Yes,C++; SQL; Git & GitHub; VLSI Design; Verilog,1
+149,2022EC007,Suresh Bhat,Electronics & Communication Engineering,Embedded,2022,Yes,Embedded Systems; MATLAB; Digital Signal Processing,0
+150,2022EC008,Yash Malhotra,Electronics & Communication Engineering,Telecom,2022,Yes,Python; C++; Go; SQL; IoT; MATLAB,3
+195,2022EE001,Ayush Kumar,Electrical & Electronics Engineering,Power Systems,2022,Yes,SQL; IoT; PLC & SCADA,1
+196,2022EE002,Anil Pillai,Electrical & Electronics Engineering,Control & Automation,2022,Yes,C++; SQL; Linux; AutoCAD; Power Systems,1
+197,2022EE003,Shreya Saxena,Electrical & Electronics Engineering,Power Systems,2022,Yes,SQL; Embedded Systems; PLC & SCADA,2
+198,2022EE004,Arjun Saxena,Electrical & Electronics Engineering,Control & Automation,2022,Yes,C++; Linux; IoT; PLC & SCADA,1
+231,2022ME001,Alok Trivedi,Mechanical Engineering,Design & Robotics,2022,Yes,Python; Linux; AutoCAD; ANSYS,1
+232,2022ME002,Karan Thakur,Mechanical Engineering,Automobile,2022,Yes,C++; Linux; AutoCAD; SolidWorks; Robotics & ROS,2
+233,2022ME003,Karthik Kapoor,Mechanical Engineering,Design & Robotics,2022,Yes,Python; C++; MATLAB; AutoCAD; ANSYS,0
+234,2022ME004,Tarun Bhat,Mechanical Engineering,Automobile,2022,Yes,Object-Oriented Programming; Linux; MATLAB; SolidWorks; ANSYS; Robotics & ROS,1
+266,2023CE001,Rakesh Bhat,Civil Engineering,Environmental,2023,Yes,SQL; MATLAB; ANSYS; Revit,0
+267,2023CE002,Anjali Pandey,Civil Engineering,Structural,2023,Yes,Python; SQL; Computer Vision; MATLAB; ANSYS,2
+268,2023CE003,Sameer Singh,Civil Engineering,Environmental,2023,Yes,Python; MATLAB; AutoCAD; Revit,1
+63,2023CS001,Arjun Das,Computer Science & Engineering,DS,2023,Yes,C++; React; Generative AI & LLMs; Docker; Kubernetes,2
+64,2023CS002,Ishita Verma,Computer Science & Engineering,CS,2023,No,Python; C++; AWS; Kubernetes; Git & GitHub,0
+65,2023CS003,Dev Pandey,Computer Science & Engineering,IT,2023,Yes,Machine Learning; Docker; Git & GitHub,0
+66,2023CS004,Amit Mishra,Computer Science & Engineering,AIML,2023,Yes,Python; C++; Spring Boot; Kubernetes,1
+67,2023CS005,Dev Pillai,Computer Science & Engineering,AIDS,2023,Yes,Python; Java; Next.js,2
+68,2023CS006,Rohan Kulkarni,Computer Science & Engineering,DS,2023,Yes,SQL; Data Structures & Algorithms; Node.js; Deep Learning; Docker,2
+69,2023CS007,Sameer Narayanan,Computer Science & Engineering,CS,2023,Yes,Java; SQL; React; FastAPI; Redis; Kubernetes,0
+70,2023CS008,Amit Choudhury,Computer Science & Engineering,IT,2023,No,C++; SQL; Next.js,0
+71,2023CS009,Swati Narayanan,Computer Science & Engineering,AIML,2023,Yes,Java; React; Machine Learning; Deep Learning; AWS; SolidWorks,3
+72,2023CS010,Anjali Sharma,Computer Science & Engineering,AIDS,2023,Yes,SQL; Machine Learning; Deep Learning; AWS,1
+73,2023CS011,Priyanka Chopra,Computer Science & Engineering,DS,2023,Yes,Node.js; Next.js; Spring Boot; Kubernetes; Git & GitHub,1
+74,2023CS012,Kunal Chatterjee,Computer Science & Engineering,CS,2023,Yes,Next.js; Spring Boot; Docker,1
+151,2023EC001,Anil Thakur,Electronics & Communication Engineering,Core ECE,2023,Yes,Java; Data Structures & Algorithms; Git & GitHub; Verilog; MATLAB,1
+152,2023EC002,Priya Rao,Electronics & Communication Engineering,VLSI,2023,Yes,Python; SQL; IoT; MATLAB; Digital Signal Processing,1
+153,2023EC003,Niharika Varma,Electronics & Communication Engineering,Embedded,2023,Yes,Data Structures & Algorithms; Git & GitHub; VLSI Design; IoT,1
+154,2023EC004,Isha Malhotra,Electronics & Communication Engineering,Telecom,2023,Yes,SQL; Linux; React; Embedded Systems; VLSI Design; IoT,2
+155,2023EC005,Suresh Kumar,Electronics & Communication Engineering,Core ECE,2023,Yes,Python; Data Structures & Algorithms; Embedded Systems,3
+156,2023EC006,Sarthak Banerjee,Electronics & Communication Engineering,VLSI,2023,Yes,Go; SQL; Data Structures & Algorithms; Linux; IoT; Digital Signal Processing,1
+157,2023EC007,Alok Sen,Electronics & Communication Engineering,Embedded,2023,Yes,C++; SQL; Linux; Docker; IoT,3
+199,2023EE001,Gaurav Menon,Electrical & Electronics Engineering,Power Systems,2023,Yes,SQL; Linux; Embedded Systems; IoT; AutoCAD,2
+200,2023EE002,Isha Singh,Electrical & Electronics Engineering,Control & Automation,2023,No,Python; C++; Linux; VLSI Design; IoT; Power Systems,0
+201,2023EE003,Siddharth Singh,Electrical & Electronics Engineering,Power Systems,2023,Yes,Linux; Node.js; Power Systems; PLC & SCADA,1
+202,2023EE004,Priya Joshi,Electrical & Electronics Engineering,Control & Automation,2023,Yes,Python; C++; SQL; Linux; Power Systems,0
+235,2023ME001,Tarun Rao,Mechanical Engineering,Design & Robotics,2023,Yes,Python; MATLAB; AutoCAD; SolidWorks; ANSYS,2
+236,2023ME002,Sneha Bose,Mechanical Engineering,Automobile,2023,Yes,C++; Linux; MATLAB; ANSYS; Robotics & ROS,1
+237,2023ME003,Manish Bose,Mechanical Engineering,Design & Robotics,2023,No,Python; AutoCAD; SolidWorks; ANSYS,0
+238,2023ME004,Abhinav Mishra,Mechanical Engineering,Automobile,2023,No,Python; C++; AutoCAD; ANSYS,0
+269,2024CE001,Isha Reddy,Civil Engineering,Structural,2024,Yes,Python; SQL; AutoCAD; Revit,0
+270,2024CE002,Aditi Mehta,Civil Engineering,Environmental,2024,Yes,Python; MATLAB; AutoCAD; ANSYS,0
+271,2024CE003,Ananya Sharma,Civil Engineering,Structural,2024,Yes,SQL; MATLAB; AutoCAD; Structural Analysis,1
+75,2024CS001,Amit Agarwal,Computer Science & Engineering,IT,2024,Yes,React; Node.js; PostgreSQL; Kubernetes,2
+76,2024CS002,Anjali Mishra,Computer Science & Engineering,AIML,2024,No,Python; Java; SQL; Node.js; Spring Boot,0
+77,2024CS003,Ayush Dutta,Computer Science & Engineering,AIDS,2024,Yes,Python; Django; PostgreSQL; Generative AI & LLMs; Docker; Kubernetes,1
+78,2024CS004,Niharika Kulkarni,Computer Science & Engineering,DS,2024,Yes,Node.js; PostgreSQL; Deep Learning; Kubernetes; Git & GitHub,3
+79,2024CS005,Nandini Banerjee,Computer Science & Engineering,CS,2024,Yes,SQL; React; Node.js; Next.js; Embedded Systems,1
+80,2024CS006,Siddharth Kumar,Computer Science & Engineering,IT,2024,Yes,Java; Spring Boot; FastAPI; Git & GitHub,1
+81,2024CS007,Sunil Joshi,Computer Science & Engineering,AIML,2024,Yes,Python; Data Structures & Algorithms; Spring Boot; PostgreSQL,0
+82,2024CS008,Komal Bhat,Computer Science & Engineering,AIDS,2024,Yes,Python; SQL; Kubernetes,2
+83,2024CS009,Alok Trivedi,Computer Science & Engineering,DS,2024,Yes,Java; Go; Spring Boot; Kubernetes,1
+84,2024CS010,Niharika Kapoor,Computer Science & Engineering,CS,2024,Yes,Java; Data Structures & Algorithms; FastAPI; Generative AI & LLMs; Git & GitHub,1
+85,2024CS011,Kavya Kulkarni,Computer Science & Engineering,IT,2024,Yes,Next.js; PostgreSQL; Generative AI & LLMs; Git & GitHub,1
+86,2024CS012,Swati Bhardwaj,Computer Science & Engineering,AIML,2024,No,Java; SQL; Node.js; Machine Learning; ANSYS,0
+158,2024EC001,Abhinav Patel,Electronics & Communication Engineering,Telecom,2024,Yes,Python; Data Structures & Algorithms; Linux; Git & GitHub,3
+159,2024EC002,Komal Patel,Electronics & Communication Engineering,Core ECE,2024,Yes,Data Structures & Algorithms; Embedded Systems; VLSI Design; IoT; Digital Signal Processing,0
+160,2024EC003,Abhinav Deshmukh,Electronics & Communication Engineering,VLSI,2024,Yes,Python; Linux; Git & GitHub; Embedded Systems; PLC & SCADA,1
+161,2024EC004,Shalini Sen,Electronics & Communication Engineering,Embedded,2024,Yes,Data Structures & Algorithms; Embedded Systems; Verilog; IoT; MATLAB,0
+162,2024EC005,Anjali Narayanan,Electronics & Communication Engineering,Telecom,2024,Yes,Python; SQL; Data Structures & Algorithms; Git & GitHub; IoT,0
+163,2024EC006,Divya Bhat,Electronics & Communication Engineering,Core ECE,2024,Yes,Python; SQL; Data Structures & Algorithms; Embedded Systems; IoT,0
+164,2024EC007,Akash Choudhury,Electronics & Communication Engineering,VLSI,2024,Yes,Python; Linux; Verilog; IoT; MATLAB,1
+203,2024EE001,Harsh Singh,Electrical & Electronics Engineering,Power Systems,2024,Yes,C++; Linux; AutoCAD; ANSYS; Power Systems; PLC & SCADA,2
+204,2024EE002,Anjali Thakur,Electrical & Electronics Engineering,Control & Automation,2024,Yes,C++; MATLAB; Power Systems,0
+205,2024EE003,Rakesh Verma,Electrical & Electronics Engineering,Power Systems,2024,Yes,C++; SQL; Linux; Embedded Systems; Power Systems,1
+206,2024EE004,Niharika Menon,Electrical & Electronics Engineering,Control & Automation,2024,Yes,Embedded Systems; IoT; MATLAB; AutoCAD; PLC & SCADA,1
+239,2024ME001,Diya Gupta,Mechanical Engineering,Design & Robotics,2024,Yes,Python; C++; MATLAB,1
+240,2024ME002,Akash Gupta,Mechanical Engineering,Automobile,2024,Yes,Python; Linux; MATLAB; SolidWorks,1
+241,2024ME003,Ritika Chopra,Mechanical Engineering,Design & Robotics,2024,Yes,Python; C++; Linux; MATLAB; Robotics & ROS,1
+242,2024ME004,Vidya Kulkarni,Mechanical Engineering,Automobile,2024,Yes,C++; Verilog; MATLAB; SolidWorks; ANSYS; Robotics & ROS,3
+272,2025CE001,Preeti Verma,Civil Engineering,Environmental,2025,Yes,Python; SQL; AutoCAD; ANSYS; Revit,1
+273,2025CE002,Meera Kumar,Civil Engineering,Structural,2025,Yes,Python; SQL; PyTorch; ANSYS; Structural Analysis,0
+283,2025CE003,Aditi Bhardwaj,Civil Engineering,Environmental,2025,Yes,Python; SQL; Digital Signal Processing; Revit,1
+305,2025CE004,Abhinav Mehta,Civil Engineering,Environmental,2025,Yes,Python; SQL; MATLAB; Revit; Structural Analysis,1
+315,2025CE005,Tushar Verma,Civil Engineering,Structural,2025,Yes,SQL; AutoCAD; ANSYS; Revit,0
+87,2025CS001,Kavya Rao,Computer Science & Engineering,AIDS,2025,Yes,Python; C++; React; Node.js; Next.js,0
+88,2025CS002,Alok Bhat,Computer Science & Engineering,DS,2025,Yes,C++; FastAPI; Tailwind CSS; Machine Learning; Docker,1
+89,2025CS003,Tanvi Mukherjee,Computer Science & Engineering,CS,2025,Yes,Data Structures & Algorithms; Node.js; Spring Boot; PostgreSQL,1
+90,2025CS004,Akash Narayanan,Computer Science & Engineering,IT,2025,Yes,SQL; Next.js; FastAPI; Deep Learning; PyTorch; Docker,1
+91,2025CS005,Kunal Malhotra,Computer Science & Engineering,AIML,2025,Yes,Java; C++; Tailwind CSS; Deep Learning; AWS,1
+92,2025CS006,Arjun Nair,Computer Science & Engineering,AIDS,2025,Yes,Python; Java; Spring Boot; Generative AI & LLMs; Docker; CI/CD Pipelines,0
+93,2025CS007,Shalini Mishra,Computer Science & Engineering,DS,2025,Yes,C++; React; Next.js; AWS; Kubernetes,1
+94,2025CS008,Priya Deshmukh,Computer Science & Engineering,CS,2025,Yes,FastAPI; Machine Learning; AWS; Kubernetes,1
+95,2025CS009,Komal Patel,Computer Science & Engineering,IT,2025,Yes,SQL; Spring Boot; Machine Learning; Generative AI & LLMs,1
+96,2025CS010,Harshit Sharma,Computer Science & Engineering,AIML,2025,Yes,Java; SQL; Spring Boot; AWS; Docker,1
+97,2025CS011,Sarthak Sen,Computer Science & Engineering,AIDS,2025,Yes,Data Structures & Algorithms; Spring Boot; FastAPI,1
+98,2025CS012,Ayush Gupta,Computer Science & Engineering,DS,2025,Yes,Python; React; Next.js; Spring Boot; FastAPI,2
+284,2025CS013,Ishita Gupta,Computer Science & Engineering,AIDS,2025,Yes,React; FastAPI; PostgreSQL; Machine Learning; AWS,0
+287,2025CS014,Rishi Bose,Computer Science & Engineering,DS,2025,Yes,Java; C++; Next.js; FastAPI; AWS,3
+294,2025CS015,Pallavi Banerjee,Computer Science & Engineering,CS,2025,No,Java; C++; SQL; PostgreSQL; Machine Learning,0
+295,2025CS016,Ishita Kapoor,Computer Science & Engineering,AIDS,2025,Yes,Node.js; Next.js; Git & GitHub,1
+297,2025CS017,Ritika Mehta,Computer Science & Engineering,AIDS,2025,Yes,Java; SQL; FastAPI; Machine Learning; AWS,1
+309,2025CS018,Abhinav Malhotra,Computer Science & Engineering,DS,2025,Yes,C++; Spring Boot; Kubernetes,2
+165,2025EC001,Shivam Nair,Electronics & Communication Engineering,Embedded,2025,Yes,C++; Data Structures & Algorithms; Linux; FastAPI; IoT,1
+166,2025EC002,Anjali Kapoor,Electronics & Communication Engineering,Telecom,2025,Yes,Python; Embedded Systems; Verilog,0
+167,2025EC003,Manish Malhotra,Electronics & Communication Engineering,Core ECE,2025,Yes,C++; Linux; Next.js; Embedded Systems; IoT; MATLAB,1
+168,2025EC004,Sameer Sen,Electronics & Communication Engineering,VLSI,2025,Yes,Data Structures & Algorithms; VLSI Design; Verilog; Digital Signal Processing,1
+169,2025EC005,Abhinav Joshi,Electronics & Communication Engineering,Embedded,2025,Yes,Git & GitHub; VLSI Design; IoT; Digital Signal Processing,0
+170,2025EC006,Preeti Das,Electronics & Communication Engineering,Telecom,2025,Yes,SQL; Git & GitHub; Embedded Systems; VLSI Design,3
+171,2025EC007,Dev Trivedi,Electronics & Communication Engineering,Core ECE,2025,Yes,Python; SQL; Linux; Git & GitHub; Verilog,3
+286,2025EC008,Komal Varma,Electronics & Communication Engineering,Core ECE,2025,Yes,Python; SQL; Data Structures & Algorithms; TensorFlow; Digital Signal Processing,1
+293,2025EC009,Anjali Narayanan,Electronics & Communication Engineering,Telecom,2025,Yes,Python; Git & GitHub; MATLAB,1
+300,2025EC010,Ishita Varma,Electronics & Communication Engineering,Telecom,2025,No,C++; Linux; Git & GitHub; IoT; Digital Signal Processing,0
+311,2025EC011,Swati Chatterjee,Electronics & Communication Engineering,Core ECE,2025,No,Python; C++; SQL; Git & GitHub; IoT; Digital Signal Processing,2
+207,2025EE001,Anjali Narayanan,Electrical & Electronics Engineering,Power Systems,2025,Yes,Python; SQL; AutoCAD; Power Systems; PLC & SCADA,0
+208,2025EE002,Neha Chatterjee,Electrical & Electronics Engineering,Control & Automation,2025,Yes,C++; TypeScript; Embedded Systems; IoT,0
+209,2025EE003,Sunil Das,Electrical & Electronics Engineering,Power Systems,2025,Yes,Python; C++; Embedded Systems; PLC & SCADA,0
+210,2025EE004,Sneha Rao,Electrical & Electronics Engineering,Control & Automation,2025,Yes,C++; SQL; PyTorch; Embedded Systems; IoT; MATLAB,0
+290,2025EE005,Shreya Banerjee,Electrical & Electronics Engineering,Power Systems,2025,Yes,Python; C++; SQL; MATLAB,1
+296,2025EE006,Nikhil Trivedi,Electrical & Electronics Engineering,Control & Automation,2025,Yes,C++; Linux; MATLAB,0
+298,2025EE007,Chetan Banerjee,Electrical & Electronics Engineering,Control & Automation,2025,Yes,Go; SQL; Linux; Power Systems,2
+316,2025EE008,Sanjana Mehta,Electrical & Electronics Engineering,Control & Automation,2025,Yes,Python; IoT; AutoCAD; PLC & SCADA,1
+243,2025ME001,Nikhil Reddy,Mechanical Engineering,Design & Robotics,2025,Yes,Python; C++; CI/CD Pipelines; MATLAB; SolidWorks; Robotics & ROS,0
+244,2025ME002,Shalini Gupta,Mechanical Engineering,Automobile,2025,Yes,C++; Linux; MATLAB; AutoCAD; Robotics & ROS,0
+245,2025ME003,Harshit Nambiar,Mechanical Engineering,Design & Robotics,2025,Yes,Python; Linux; ANSYS,0
+246,2025ME004,Karthik Pandey,Mechanical Engineering,Automobile,2025,Yes,Python; Go; Linux; MATLAB; AutoCAD; Robotics & ROS,1
+280,2025ME005,Karan Patel,Mechanical Engineering,Design & Robotics,2025,Yes,Python; C++; MATLAB; AutoCAD; Robotics & ROS,1
+282,2025ME006,Nikhil Saxena,Mechanical Engineering,Design & Robotics,2025,No,Linux; VLSI Design; MATLAB; SolidWorks; ANSYS; Robotics & ROS,0
+285,2025ME007,Shreya Mehta,Mechanical Engineering,Design & Robotics,2025,Yes,Python; Linux; AutoCAD,0
+288,2025ME008,Pallavi Mukherjee,Mechanical Engineering,Design & Robotics,2025,Yes,Linux; MATLAB; SolidWorks; ANSYS; Robotics & ROS,1
+318,2025ME009,Kunal Thakur,Mechanical Engineering,Design & Robotics,2025,Yes,Python; C++; AutoCAD; SolidWorks,1
+320,2025ME010,Ishita Thakur,Mechanical Engineering,Design & Robotics,2025,Yes,Python; C++; Linux; AutoCAD; SolidWorks,0
+274,2026CE001,Priyanka Thakur,Civil Engineering,Environmental,2026,Yes,MATLAB; AutoCAD; ANSYS; Revit; Structural Analysis,1
+275,2026CE002,Amit Dutta,Civil Engineering,Structural,2026,Yes,Python; SQL; MATLAB; AutoCAD; Revit,0
+277,2026CE003,Rahul Chopra,Civil Engineering,Environmental,2026,Yes,SQL; AutoCAD; Revit,1
+279,2026CE004,Karan Mishra,Civil Engineering,Environmental,2026,Yes,SQL; Computer Vision; AutoCAD; Revit,0
+281,2026CE005,Diya Bose,Civil Engineering,Environmental,2026,Yes,Python; Microsoft Azure; MATLAB; AutoCAD; Revit; Structural Analysis,2
+299,2026CE006,Manish Kumar,Civil Engineering,Environmental,2026,Yes,Python; MATLAB; AutoCAD; Revit; Structural Analysis,0
+307,2026CE007,Anjali Patel,Civil Engineering,Structural,2026,Yes,Python; SQL; AutoCAD; Revit; Structural Analysis,1
+308,2026CE008,Manish Kapoor,Civil Engineering,Structural,2026,Yes,SQL; MATLAB; AutoCAD; Revit; Structural Analysis,1
+310,2026CE009,Arjun Mishra,Civil Engineering,Structural,2026,Yes,Python; SQL; MATLAB; ANSYS; Structural Analysis,1
+99,2026CS001,Karan Joshi,Computer Science & Engineering,CS,2026,No,SQL; Data Structures & Algorithms; Docker,0
+100,2026CS002,Sunil Malhotra,Computer Science & Engineering,IT,2026,Yes,Next.js; PostgreSQL; Kubernetes; Git & GitHub,1
+101,2026CS003,Divya Kumar,Computer Science & Engineering,AIML,2026,No,C++; Data Structures & Algorithms; Spring Boot; Generative AI & LLMs; Docker,0
+102,2026CS004,Anjali Malhotra,Computer Science & Engineering,AIDS,2026,Yes,FastAPI; PostgreSQL; Kubernetes,1
+103,2026CS005,Abhinav Ghosh,Computer Science & Engineering,DS,2026,Yes,Spring Boot; PostgreSQL; Generative AI & LLMs; Docker; Kubernetes,1
+104,2026CS006,Meera Thakur,Computer Science & Engineering,CS,2026,Yes,Java; Machine Learning; Deep Learning; Kubernetes,0
+105,2026CS007,Amit Das,Computer Science & Engineering,IT,2026,No,Java; C++; Data Structures & Algorithms; Spring Boot; Kubernetes,0
+106,2026CS008,Tarun Deshmukh,Computer Science & Engineering,AIML,2026,Yes,Python; SQL; Docker; Git & GitHub,1
+107,2026CS009,Mohit Chopra,Computer Science & Engineering,AIDS,2026,Yes,C++; Machine Learning; Generative AI & LLMs; AWS; Robotics & ROS,1
+108,2026CS010,Ishita Das,Computer Science & Engineering,DS,2026,No,Java; C++; SQL; Machine Learning; Kubernetes,2
+109,2026CS011,Preeti Joshi,Computer Science & Engineering,CS,2026,Yes,C++; SQL; PostgreSQL; Docker,1
+110,2026CS012,Arjun Patel,Computer Science & Engineering,IT,2026,Yes,FastAPI; Deep Learning; Git & GitHub,1
+278,2026CS013,Niharika Deshmukh,Computer Science & Engineering,CS,2026,Yes,Python; Next.js; Spring Boot; AWS; Kubernetes,2
+301,2026CS014,Meera Kulkarni,Computer Science & Engineering,AIDS,2026,Yes,Python; SQL; Generative AI & LLMs; Kubernetes,1
+302,2026CS015,Bhavya Bose,Computer Science & Engineering,AIDS,2026,Yes,Node.js; PostgreSQL; Docker,0
+303,2026CS016,Dev Agarwal,Computer Science & Engineering,IT,2026,Yes,React; FastAPI; MongoDB; AWS; Kubernetes,1
+304,2026CS017,Kavya Trivedi,Computer Science & Engineering,AIML,2026,Yes,Python; C++; Next.js; Spring Boot; Machine Learning,1
+313,2026CS018,Chetan Choudhury,Computer Science & Engineering,AIDS,2026,Yes,Data Structures & Algorithms; React; Next.js; Spring Boot; AWS,1
+172,2026EC001,Kunal Sen,Electronics & Communication Engineering,VLSI,2026,No,Python; VLSI Design; MATLAB,0
+173,2026EC002,Vivek Verma,Electronics & Communication Engineering,Embedded,2026,Yes,Linux; VLSI Design; IoT; MATLAB,3
+174,2026EC003,Sanjana Joshi,Electronics & Communication Engineering,Telecom,2026,Yes,Data Structures & Algorithms; Git & GitHub; IoT,2
+175,2026EC004,Rahul Patel,Electronics & Communication Engineering,Core ECE,2026,Yes,SQL; Git & GitHub; Embedded Systems; Digital Signal Processing,1
+176,2026EC005,Kavya Verma,Electronics & Communication Engineering,VLSI,2026,Yes,SQL; Linux; Git & GitHub,2
+177,2026EC006,Preeti Kulkarni,Electronics & Communication Engineering,Embedded,2026,Yes,SQL; VLSI Design; MATLAB,1
+178,2026EC007,Nikhil Kapoor,Electronics & Communication Engineering,Telecom,2026,Yes,SQL; Data Structures & Algorithms; Linux; React,1
+291,2026EC008,Ananya Bhardwaj,Electronics & Communication Engineering,Embedded,2026,Yes,SQL; Data Structures & Algorithms; VLSI Design; IoT; MATLAB; SolidWorks,1
+292,2026EC009,Ritika Dutta,Electronics & Communication Engineering,Core ECE,2026,No,SQL; Data Structures & Algorithms; Linux; Git & GitHub; IoT; MATLAB,0
+317,2026EC010,Akash Narayanan,Electronics & Communication Engineering,VLSI,2026,No,SQL; Linux; VLSI Design; Verilog; MATLAB,0
+319,2026EC011,Alok Chopra,Electronics & Communication Engineering,Telecom,2026,Yes,Data Structures & Algorithms; Linux; AWS; VLSI Design,1
+211,2026EE001,Simran Banerjee,Electrical & Electronics Engineering,Power Systems,2026,No,Python; SQL; Microsoft Azure; MATLAB,0
+212,2026EE002,Alok Bhat,Electrical & Electronics Engineering,Control & Automation,2026,Yes,C++; AutoCAD; PLC & SCADA,1
+213,2026EE003,Niharika Saxena,Electrical & Electronics Engineering,Power Systems,2026,Yes,SQL; Linux; Embedded Systems,1
+214,2026EE004,Preeti Iyer,Electrical & Electronics Engineering,Control & Automation,2026,Yes,C++; Linux; IoT; Power Systems,0
+276,2026EE005,Sanya Patel,Electrical & Electronics Engineering,Power Systems,2026,Yes,C++; SQL; IoT,1
+247,2026ME001,Akshay Reddy,Mechanical Engineering,Design & Robotics,2026,No,Linux; AutoCAD; ANSYS,0
+248,2026ME002,Rahul Nambiar,Mechanical Engineering,Automobile,2026,Yes,Python; C++; Linux; ANSYS; Robotics & ROS,1
+249,2026ME003,Akshay Singh,Mechanical Engineering,Design & Robotics,2026,Yes,Linux; MATLAB; SolidWorks; Robotics & ROS,0
+250,2026ME004,Vikram Sharma,Mechanical Engineering,Automobile,2026,Yes,Python; C++; Linux; MATLAB,1
+289,2026ME005,Ritika Bose,Mechanical Engineering,Design & Robotics,2026,Yes,Python; C++; Linux; Microsoft Azure; MATLAB; AutoCAD,1
+306,2026ME006,Kavya Joshi,Mechanical Engineering,Automobile,2026,Yes,MATLAB; SolidWorks; Robotics & ROS,1
+312,2026ME007,Sanjana Nair,Mechanical Engineering,Design & Robotics,2026,Yes,Python; C++; Linux; Redis; MATLAB; ANSYS,1
+314,2026ME008,Rajesh Singh,Mechanical Engineering,Automobile,2026,Yes,C++; Linux; AutoCAD; SolidWorks; ANSYS; Robotics & ROS,0
